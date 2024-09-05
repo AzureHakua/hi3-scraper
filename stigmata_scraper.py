@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-from collections import OrderedDict
 import os
 import json
 import re

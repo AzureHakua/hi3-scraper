@@ -3226,5 +3226,3815 @@
         "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e6/Dragon_Boat_Festival_%28M%29.png/revision/latest?cb=20240802183138"
       }
     }
+  },
+  "Edison": {
+    "name": "Edison",
+    "positions": {
+      "T": {
+        "name": "Edison (T)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "EM Storage",
+        "skill_description": "Gain 10% (15% at 4★) Lightning DMG. Gain 1 charge every 6s. The next Basic ATK (including Combo and Charged ATKs) deals an additional 76% (120% at 4★) Lightning DMG."
+      },
+      "M": {
+        "name": "Edison (M)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "EM Barrier",
+        "skill_description": "Lightning DMG increases by 6% (10% at 4★). Host obtains a barrier every 6s that absorbs 64 (105 at 4★) Physical DMG from the next enemy hit."
+      },
+      "B": {
+        "name": "Edison (B)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "EM Repulsion",
+        "skill_description": "Entities summoned by the host gain 19% (30% at 4★) Total DMG Multiplier. Charges once every 6s. The next Basic ATK (including Combo and Charged ATKs) inflicts 19% (30% at 4★) Move Slow on the enemy for 4s."
+      }
+    },
+    "set": {
+      "name": "Inventor",
+      "2_piece": {
+        "name": "Surge Current",
+        "effect": "Gain 1 charge every 12s. Next Basic ATK (including Combo and Charged ATK) gains 50% Total DMG Multiplier. Host also gains 15% Total DMG Multiplier for 6s."
+      },
+      "3_piece": {
+        "name": "EM Field",
+        "effect": "Gain 25% Lightning DMG."
+      }
+    },
+    "images": {
+      "T": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/93/Edison_%28T%29.png/revision/latest?cb=20240802182733",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/a1/Edison_%28T%29_%28Icon%29.png/revision/latest?cb=20231117034214"
+      },
+      "M": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/48/Edison_%28M%29.png/revision/latest?cb=20220924164149",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/1d/Edison_%28M%29_%28Icon%29.png/revision/latest?cb=20231117035527"
+      },
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/fa/Edison_%28B%29.png/revision/latest?cb=20220924164206",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/0c/Edison_%28B%29_%28Icon%29.png/revision/latest?cb=20240620180213"
+      }
+    }
+  },
+  "Edison: Thanksgiving": {
+    "name": "Edison: Thanksgiving",
+    "positions": {
+      "T": {
+        "name": "Edison: Thanksgiving (T)",
+        "stats": {
+          "HP": "279",
+          "ATK": "43",
+          "DEF": "60",
+          "CRT": "2",
+          "SP": "0"
+        },
+        "skill_name": "Chicken Run",
+        "skill_description": "Gain 20% Move Speed."
+      }
+    },
+    "set": {},
+    "images": {
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/67/Edison_-_Thanksgiving_%28T%29_%28Icon%29.png/revision/latest?cb=20231118014912",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/21/Edison_-_Thanksgiving_%28T%29.png/revision/latest?cb=20240802203827"
+      }
+    }
+  },
+  "Edwin Hubble": {
+    "name": "Edwin Hubble",
+    "positions": {
+      "T": {
+        "name": "Edwin Hubble (T)",
+        "stats": {
+          "HP": "350",
+          "ATK": "101",
+          "DEF": "33",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Frozen Nova",
+        "skill_description": "Hitting an enemy triggers a Frozen Nova explosion at its location, dealing 300% ATK of Ice DMG and inflicting 3 Rime Trauma over an area. CD: 8.0s."
+      },
+      "M": {
+        "name": "Edwin Hubble (M)",
+        "stats": {
+          "HP": "422",
+          "ATK": "0",
+          "DEF": "177",
+          "CRT": "9",
+          "SP": "0"
+        },
+        "skill_name": "Cosmic Bastion",
+        "skill_description": "Gain 20% Ice Resistance. Attacks have 30% chance to inflict 20% Move Slow on the enemy for 4s. CD: 12s."
+      },
+      "B": {
+        "name": "Edwin Hubble (B)",
+        "stats": {
+          "HP": "398",
+          "ATK": "54",
+          "DEF": "33",
+          "CRT": "9",
+          "SP": "0"
+        },
+        "skill_name": "Subzero Beam",
+        "skill_description": "Gain 30% Total DMG Multiplier against frozen or slowed enemies."
+      }
+    },
+    "set": {
+      "name": "Space Explorer",
+      "2_piece": {
+        "name": "Observation",
+        "effect": "When attacking slowed enemies, the host gains a 15% Attack Speed buff for 4s. Triggering this again resets the duration."
+      },
+      "3_piece": {
+        "name": "Absolute Zero",
+        "effect": "Gain 30% Ice DMG. Combo/charged attacks further gain 10% Total DMG Multiplier."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/98/Edwin_Hubble_%28B%29.png/revision/latest?cb=20240804162809",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f2/Edwin_Hubble_%28B%29_%28Icon%29.png/revision/latest?cb=20231117025545"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/72/Edwin_Hubble_%28T%29_%28Icon%29.png/revision/latest?cb=20231117025508",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/43/Edwin_Hubble_%28T%29.png/revision/latest?cb=20240804162849"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/82/Edwin_Hubble_%28M%29_%28Icon%29.png/revision/latest?cb=20231117025526",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/b1/Edwin_Hubble_%28M%29.png/revision/latest?cb=20240804162830"
+      }
+    }
+  },
+  "Einstein": {
+    "name": "Einstein",
+    "positions": {
+      "T": {
+        "name": "Einstein (T)",
+        "stats": {
+          "HP": "496",
+          "ATK": "85",
+          "DEF": "110",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Mass-Energy Conservation",
+        "skill_description": "Charged attacks gain 22% (30% at 5★) DMG against shields. At below 33% HP, gain 28% (41% at 5★) Total DMG Multiplier."
+      },
+      "M": {
+        "name": "Einstein (M)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "110",
+          "CRT": "14",
+          "SP": "0"
+        },
+        "skill_name": "Photon",
+        "skill_description": "When charged attacks hit the enemy, heal character for 30 (50 at 5★) HP. CD: 3s. Hits made against MECH-type enemies also restore 1.2 (2.0 at 5★) SP. CD: 3s."
+      },
+      "B": {
+        "name": "Einstein (B)",
+        "stats": {
+          "HP": "0",
+          "ATK": "43",
+          "DEF": "110",
+          "CRT": "9",
+          "SP": "0"
+        },
+        "skill_name": "Mass-Energy Equation",
+        "skill_description": "Charged attacks gain 12% (20% at 5★) Total DMG Multiplier. Hits made against MECH-type enemies accelerates the character's Attack Speed by 11% (15% at 5★) for 3s Triggering this skill again resets the duration."
+      }
+    },
+    "set": {
+      "name": "Relatively Natural Curls",
+      "2_piece": {
+        "name": "Special Relativity",
+        "effect": "Gain 5% Total DMG Multiplier for every meter of distance from the enemy. Bonus stacks up to 5 times."
+      },
+      "3_piece": {
+        "name": "General Relativity",
+        "effect": "Get Total DMG Reduction when closer to the enemy, up to a max of 40% DMG Reduction."
+      }
+    },
+    "images": {
+      "M": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/55/Einstein_%28M%29.png/revision/latest?cb=20240804162513",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/8c/Einstein_%28M%29_%28Icon%29.png/revision/latest?cb=20231117025141"
+      },
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/4e/Einstein_%28B%29.png/revision/latest?cb=20240804162531",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/d5/Einstein_%28B%29_%28Icon%29.png/revision/latest?cb=20231117025200"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/18/Einstein_%28T%29_%28Icon%29.png/revision/latest?cb=20231117025121",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/b4/Einstein_%28T%29.png/revision/latest?cb=20240804162452"
+      }
+    }
+  },
+  "Einstein: Band": {
+    "name": "Einstein: Band",
+    "positions": {
+      "T": {
+        "name": "Einstein: Band (T)",
+        "stats": {
+          "HP": "448",
+          "ATK": "101",
+          "DEF": "70",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Dignified Manner",
+        "skill_description": "Summons a robot assistant (summoned entity) to assist in combat and unlocks its laser attack ability that deals substantial Physical DMG. When there are no less than 2 enemies on the battlefield, the host deals 25% more Total DMG."
+      },
+      "M": {
+        "name": "Einstein: Band (M)",
+        "stats": {
+          "HP": "621",
+          "ATK": "0",
+          "DEF": "175",
+          "CRT": "6",
+          "SP": "0"
+        },
+        "skill_name": "Decent Behavior",
+        "skill_description": "Summons a robot assistant (summoned entity) to assist in combat and unlocks its shockwave attack ability that deals AOE Physical DMG and knocks down the target. When there are no less than 3 enemies on the battlefield, randomly knocks a nearby enemy airborne and inflicts a 3s Time Lock on it every 6s."
+      },
+      "B": {
+        "name": "Einstein: Band (B)",
+        "stats": {
+          "HP": "414",
+          "ATK": "45",
+          "DEF": "87",
+          "CRT": "11",
+          "SP": "0"
+        },
+        "skill_name": "Elegant Steps",
+        "skill_description": "Summons a robot assistant (summoned entity) to assist in combat and unlocks its Flash Grenade ability that deals continuous Physical DMG. When there are no less than 4 enemies on the battlefield, there is a 25% chance for the host to ignore DMG taken."
+      }
+    },
+    "set": {
+      "name": "Anti-Entropy Ball",
+      "2_piece": {
+        "name": "Stage Lights",
+        "effect": "Robot assistant's Flash Bomb, Shockwave, and Laser attacks have a 30% chance of dealing DMG 2 times."
+      },
+      "3_piece": {
+        "name": "Solo Dance",
+        "effect": "Removes the enemy number restrictions from all stigmata skills in this stigmata set. The host's attacks gain 15% Total DMG Multiplier."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/52/Einstein_-_Band_%28B%29.png/revision/latest?cb=20240804162346",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/2d/Einstein_-_Band_%28B%29_%28Icon%29.png/revision/latest?cb=20231117035901"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/12/Einstein_-_Band_%28T%29_%28Icon%29.png/revision/latest?cb=20231117035820",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/24/Einstein_-_Band_%28T%29.png/revision/latest?cb=20240804162417"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/2e/Einstein_-_Band_%28M%29_%28Icon%29.png/revision/latest?cb=20231117035842",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/25/Einstein_-_Band_%28M%29.png/revision/latest?cb=20240804162401"
+      }
+    }
+  },
+  "Ekaterina": {
+    "name": "Ekaterina",
+    "positions": {
+      "T": {
+        "name": "Ekaterina (T)",
+        "stats": {
+          "HP": "540",
+          "ATK": "92",
+          "DEF": "91",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Combo Armor",
+        "skill_description": "When Combo Hit Count exceeds 25, gain 61% DEF in battle."
+      },
+      "M": {
+        "name": "Ekaterina (M)",
+        "stats": {
+          "HP": "540",
+          "ATK": "0",
+          "DEF": "91",
+          "CRT": "8",
+          "SP": "0"
+        },
+        "skill_name": "Combo Fury",
+        "skill_description": "When Combo Hit Count exceeds 40, gain 41% Physical DMG."
+      },
+      "B": {
+        "name": "Ekaterina (B)",
+        "stats": {
+          "HP": "540",
+          "ATK": "46",
+          "DEF": "91",
+          "CRT": "3",
+          "SP": "0"
+        },
+        "skill_name": "Combo Sprint",
+        "skill_description": "When Combo Hit Count exceeds 10, gain 31% Move Speed."
+      }
+    },
+    "set": {
+      "name": "Tsar of Russia",
+      "2_piece": {
+        "name": "MECH Power",
+        "effect": "Gain 15% CRT in battle. MECH-type battlesuit equip bonus: Gain 15% Max SP in battle."
+      },
+      "3_piece": {
+        "name": "Combo Burst",
+        "effect": "When Combo Hit Count exceeds 70, gain 120% Crit DMG."
+      }
+    },
+    "images": {
+      "T": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/bc/Ekaterina_%28T%29.png/revision/latest?cb=20220924163233",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/13/Ekaterina_%28T%29_%28Icon%29.png/revision/latest?cb=20240620173942"
+      },
+      "M": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/43/Ekaterina_%28M%29.png/revision/latest?cb=20220924163251",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/9e/Ekaterina_%28M%29_%28Icon%29.png/revision/latest?cb=20240620174017"
+      },
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/d5/Ekaterina_%28B%29.png/revision/latest?cb=20220924163309",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c2/Ekaterina_%28B%29_%28Icon%29.png/revision/latest?cb=20240620174036"
+      }
+    }
+  },
+  "Elizabeth Bathory": {
+    "name": "Elizabeth Bathory",
+    "positions": {
+      "T": {
+        "name": "Elizabeth Bathory (T)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Bath of Carnage",
+        "skill_description": "Gain 3% (5% at 4★) Crit Rate. At above 80% HP, also gain 19% (31% at 4★) DEF during combat."
+      },
+      "M": {
+        "name": "Elizabeth Bathory (M)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Blood Countess",
+        "skill_description": "Gain 6% (10% at 4★) Physical DMG. At above 80% HP, gain 6% (10% at 4★) Physical DMG buff during combat."
+      },
+      "B": {
+        "name": "Elizabeth Bathory (B)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Wind of Blessings",
+        "skill_description": "At 80% or higher HP, gain 26% (41% at 4★) Move Speed."
+      }
+    },
+    "set": {
+      "name": "Vampire Countess",
+      "2_piece": {
+        "name": "BIO Master",
+        "effect": "Gains 20% Physical DMG.BIO equip bonus: Gains another 10% Max SP."
+      },
+      "3_piece": {
+        "name": "Feedback",
+        "effect": "Host gains 15% faster ATK Speed. Hits have a 10% chance to heal 3% HP. CD: 2s."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/85/Elizabeth_Bathory_%28B%29.png/revision/latest?cb=20240802165009",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/2c/Elizabeth_Bathory_%28B%29_%28Icon%29.png/revision/latest?cb=20231117025429"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/71/Elizabeth_Bathory_%28T%29_%28Icon%29.png/revision/latest?cb=20231117025349",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/76/Elizabeth_Bathory_%28T%29.png/revision/latest?cb=20240802165206"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/02/Elizabeth_Bathory_%28M%29_%28Icon%29.png/revision/latest?cb=20231117025410",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/22/Elizabeth_Bathory_%28M%29.png/revision/latest?cb=20240802165144"
+      }
+    }
+  },
+  "Elysia": {
+    "name": "Elysia",
+    "positions": {
+      "T": {
+        "name": "Elysia (T)",
+        "stats": {
+          "HP": "386",
+          "ATK": "113",
+          "DEF": "66",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Biting Arrows",
+        "skill_description": "Physical DMG increases by 25.0%. Crit DMG from Basic/Combo/Charged ATKs increases by 20.0%."
+      },
+      "M": {
+        "name": "Elysia (M)",
+        "stats": {
+          "HP": "483",
+          "ATK": "0",
+          "DEF": "177",
+          "CRT": "10",
+          "SP": "0"
+        },
+        "skill_name": "Elven Agility",
+        "skill_description": "Physical DMG increases by 30.0%. Ultimate Evasion Skill has 20.0% shorter CD."
+      },
+      "B": {
+        "name": "Elysia (B)",
+        "stats": {
+          "HP": "386",
+          "ATK": "56",
+          "DEF": "66",
+          "CRT": "18",
+          "SP": "0"
+        },
+        "skill_name": "",
+        "skill_description": "Total DMG increases by 25.0% and Crit DMG increases by 15.0%. Charged ATKs boosts Crit DMG by 15.0% on hit for 15s."
+      }
+    },
+    "set": {
+      "name": "Pristine Elf",
+      "2_piece": {
+        "name": "Crystal Prayers",
+        "effect": "Total DMG increases by 25.0%. On hit, Charged ATKs make every attack in the next 5s deal 20.0% ATK of Physical DMG (can only be triggered once every 0.3s on each target). Host takes 20.0% less Total DMG from enemies within 5 meters."
+      },
+      "3_piece": {
+        "name": "Blessed Realm",
+        "effect": "Crit DMG from ranged attacks increases by 30.0%. Casting Ultimate makes ranged attacks deal 20.0% ATK of bonus Physical DMG (can only be triggered once every 0.3s on each target) for 10.0s (hitting enemies with Charged ATKs extends the duration by 1s for up to 10s of extension). Charged ATKs restore 200 HP on hit. CD: 5s."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/aa/Elysia_%28Stigmata%29_%28B%29.png/revision/latest?cb=20240804161940",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/b1/Elysia_%28Stigmata%29_%28B%29_%28Icon%29.png/revision/latest?cb=20231116202158"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/95/Elysia_%28Stigmata%29_%28T%29_%28Icon%29.png/revision/latest?cb=20231116202106",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/6b/Elysia_%28Stigmata%29_%28T%29.png/revision/latest?cb=20240804161903"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f0/Elysia_%28Stigmata%29_%28M%29_%28Icon%29.png/revision/latest?cb=20231116202128",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/a2/Elysia_%28Stigmata%29_%28M%29.png/revision/latest?cb=20240804161926"
+      }
+    }
+  },
+  "Elysia: Pristine": {
+    "name": "Elysia: Pristine",
+    "positions": {
+      "T": {
+        "name": "Elysia: Pristine (T)",
+        "stats": {
+          "HP": "376",
+          "ATK": "114",
+          "DEF": "66",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Wish for Sea",
+        "skill_description": "Total DMG increases by 20.0%. Weapon skills increase Ice DMG by 20.0% for 10s. Triggering it again resets the duration. Ranged Ice DMG increases by 35.0% in Herrscher Form."
+      },
+      "M": {
+        "name": "Elysia: Pristine (M)",
+        "stats": {
+          "HP": "507",
+          "ATK": "0",
+          "DEF": "199",
+          "CRT": "5",
+          "SP": "0"
+        },
+        "skill_name": "Wish for Earth",
+        "skill_description": "Ice DMG increases by 20.0%. While in Herrscher Form, when weapon skills hit enemies, ranged Ice DMG increases by 15.0% for 10s (Triggering it again resets the duration)."
+      },
+      "B": {
+        "name": "Elysia: Pristine (B)",
+        "stats": {
+          "HP": "410",
+          "ATK": "60",
+          "DEF": "110",
+          "CRT": "8",
+          "SP": "0"
+        },
+        "skill_name": "Wish for Stars",
+        "skill_description": "Ice DMG increases by 20.0%. Ranged ATKs deal 20.0% bonus Total DMG."
+      }
+    },
+    "set": {
+      "name": "Flower of Origin",
+      "2_piece": {
+        "name": "Wish for Time",
+        "effect": "Total DMG increases by 25.0% in Herrscher Form. After 8 consecutive hits (CD 0.1s), ranged Ice DMG increases by 15.0% for 10s. Triggering it again resets the duration. Total DMG received decreases by 20.0%."
+      },
+      "3_piece": {
+        "name": "Wish for Glory",
+        "effect": "Weapon skill CD reduces by 25.0%. Ranged Ice DMG increases by 20.0%. Ranged Total DMG increases by 35.0%."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/96/Elysia_-_Pristine_%28B%29.png/revision/latest?cb=20240804162047",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/6a/Elysia_-_Pristine_%28B%29_%28Icon%29.png/revision/latest?cb=20231116183514"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/39/Elysia_-_Pristine_%28T%29_%28Icon%29.png/revision/latest?cb=20231116180807",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/3c/Elysia_-_Pristine_%28T%29.png/revision/latest?cb=20240804162125"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/cb/Elysia_-_Pristine_%28M%29_%28Icon%29.png/revision/latest?cb=20231116183452",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/dd/Elysia_-_Pristine_%28M%29.png/revision/latest?cb=20240804162105"
+      }
+    }
+  },
+  "Elysia: Shopper": {
+    "name": "Elysia: Shopper",
+    "positions": {
+      "T": {
+        "name": "Elysia: Shopper (T)",
+        "stats": {
+          "HP": "245",
+          "ATK": "59",
+          "DEF": "27",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Metropolitan Elf",
+        "skill_description": "Increases Total DMG by 6,0%. With over 20 combo hits, Charged/Combo ATK deal 10,0% more Ice DMG."
+      }
+    },
+    "set": {},
+    "images": {
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f0/Elysia_-_Shopper_%28T%29_%28Icon%29.png/revision/latest?cb=20231117030601",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/07/Elysia_-_Shopper_%28T%29.png/revision/latest?cb=20230610162902"
+      }
+    }
+  },
+  "Eternal Love": {
+    "name": "Eternal Love",
+    "positions": {
+      "M": {
+        "name": "Eternal Love (M)",
+        "stats": {
+          "HP": "339",
+          "ATK": "0",
+          "DEF": "32",
+          "CRT": "5",
+          "SP": "0"
+        },
+        "skill_name": "Mutual Affection",
+        "skill_description": "Gain 20% Max HP in battle. Kiana equip bonus: Mei gains 8% Physical DMG on the field. Mei equip bonus: Kiana gains 8% Physical DMG on the field. Effect cannot be stacked."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f3/Eternal_Love_%28M%29_%28Icon%29.png/revision/latest?cb=20231118000443",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/57/Eternal_Love_%28M%29.png/revision/latest?cb=20240802203924"
+      }
+    }
+  },
+  "Fervent Tempo: Shopping": {
+    "name": "Fervent Tempo: Shopping",
+    "positions": {
+      "T": {
+        "name": "Fervent Tempo: Shopping (T)",
+        "stats": {
+          "HP": "245",
+          "ATK": "59",
+          "DEF": "27",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Swinging Beats",
+        "skill_description": "Charged ATK gains 10,0% Physical DMG. Increases an additional 6,0% when Combo ATKs go over 50."
+      }
+    },
+    "set": {},
+    "images": {
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/82/Fervent_Tempo_-_Shopping_%28T%29_%28Icon%29.png/revision/latest?cb=20231117030626",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/17/Fervent_Tempo_-_Shopping_%28T%29.png/revision/latest?cb=20220910170212"
+      }
+    }
+  },
+  "Formals": {
+    "name": "Formals",
+    "positions": {
+      "T": {
+        "name": "Cecilia: Formals (T)",
+        "stats": {
+          "HP": "374",
+          "ATK": "94",
+          "DEF": "55",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Dark Purple Sword",
+        "skill_description": "Basic ATK (including Combo and Charged ATKs) gain 20% Physical DMG. At Dance Level 2 or higher, gain 20% Crit DMG."
+      },
+      "M": {
+        "name": "Higokumaru: Formals (M)",
+        "stats": {
+          "HP": "441",
+          "ATK": "0",
+          "DEF": "177",
+          "CRT": "7",
+          "SP": "0"
+        },
+        "skill_name": "Crimson Flame",
+        "skill_description": "Gain 20% Fire, Lightning, and Ice DMG. At Dance Level 1 or higher, take 20% less indirect Physical DMG."
+      },
+      "B": {
+        "name": "Seele: Formals (B)",
+        "stats": {
+          "HP": "388",
+          "ATK": "58",
+          "DEF": "26",
+          "CRT": "8",
+          "SP": "0"
+        },
+        "skill_name": "Pale Zephyr",
+        "skill_description": "Gain 20% Move Speed. When the Dance Level reaches 1, gain 15% Attack Speed."
+      }
+    },
+    "set": {
+      "name": "Anniversary Ball",
+      "2_piece": {
+        "name": "Flower Dance",
+        "effect": "For every 5s deployed, the host gains 1 Dance Level (3 stacks max). The host deals 15%, 20%, and 25% bonus Total DMG respectively at Dance Level 1, 2, and 3. Dance Level resets when the host is switched out."
+      },
+      "3_piece": {
+        "name": "Dance of Passion",
+        "effect": "When the Dance Level reaches 3, attacks will cause an explosion, dealing 300% ATK of Physical DMG to surrounding enemies. CD: 6s."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/77/Formals_%28B%29.png/revision/latest?cb=20240804161745",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/69/Formals_%28B%29_%28Icon%29.png/revision/latest?cb=20231117235245"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/1a/Formals_%28T%29_%28Icon%29.png/revision/latest?cb=20231117235204",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f7/Formals_%28T%29.png/revision/latest?cb=20240804161818"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/47/Formals_%28M%29_%28Icon%29.png/revision/latest?cb=20231117235225",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/0d/Formals_%28M%29.png/revision/latest?cb=20240804161803"
+      }
+    }
+  },
+  "Fu Hua Musician": {
+    "name": "Fu Hua Musician",
+    "positions": {
+      "T": {
+        "name": "Fu Hua Musician (T)",
+        "stats": {
+          "HP": "422",
+          "ATK": "107",
+          "DEF": "66",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Triple Yangguan",
+        "skill_description": "When attacking ignited enemies or enemies with Firebrand, deal 200% ATK of Fire DMG across a 3.5-meter radius AOE. CD: 3s."
+      },
+      "M": {
+        "name": "Fu Hua Musician (M)",
+        "stats": {
+          "HP": "470",
+          "ATK": "0",
+          "DEF": "188",
+          "CRT": "10",
+          "SP": "0"
+        },
+        "skill_name": "Chinatown Guide",
+        "skill_description": "After exit, team gains 10% Fire DMG. This effect cannot stack. When on the field, the host gains 10% All Elemental Resistance."
+      },
+      "B": {
+        "name": "Fu Hua Musician (B)",
+        "stats": {
+          "HP": "422",
+          "ATK": "52",
+          "DEF": "121",
+          "CRT": "10",
+          "SP": "0"
+        },
+        "skill_name": "Seeking Phoenix",
+        "skill_description": "Gain 20% Fire DMG. Attacks against enemies who are ignited or bearing the Firebrand gain 10% Total DMG Multiplier."
+      }
+    },
+    "set": {
+      "name": "Musician",
+      "2_piece": {
+        "name": "Thunder Guide",
+        "effect": "For 10s after exit, team gains 10% bonus total DMG, and host deals 5% bonus total DMG additionally. This effect cannot stack."
+      },
+      "3_piece": {
+        "name": "Happy Tour",
+        "effect": "Gain 30% Fire DMG and 20% Max HP in battle."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/7a/Fu_Hua_Musician_%28B%29.png/revision/latest?cb=20240804161219",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/93/Fu_Hua_Musician_%28B%29_%28Icon%29.png/revision/latest?cb=20231117030015"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/29/Fu_Hua_Musician_%28T%29_%28Icon%29.png/revision/latest?cb=20231117025937",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/81/Fu_Hua_Musician_%28T%29.png/revision/latest?cb=20240804161305"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/79/Fu_Hua_Musician_%28M%29_%28Icon%29.png/revision/latest?cb=20231117025956",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/39/Fu_Hua_Musician_%28M%29.png/revision/latest?cb=20240804161237"
+      }
+    }
+  },
+  "Fu Hua Outing": {
+    "name": "Fu Hua Outing",
+    "positions": {
+      "B": {
+        "name": "Fu Hua Outing (B)",
+        "stats": {
+          "HP": "276",
+          "ATK": "28",
+          "DEF": "27",
+          "CRT": "5",
+          "SP": "0"
+        },
+        "skill_name": "Outing",
+        "skill_description": "Fu Hua equip bonus: Gain 15% Attack Speed and 20% Move Speed."
+      }
+    },
+    "set": {},
+    "images": {
+      "B": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/22/Fu_Hua_Outing_%28B%29_%28Icon%29.png/revision/latest?cb=20231117233653",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/81/Fu_Hua_Outing_%28B%29.png/revision/latest?cb=20240802202637"
+      }
+    }
+  },
+  "Fu Hua: Birthday": {
+    "name": "Fu Hua: Birthday",
+    "positions": {
+      "T": {
+        "name": "Fu Hua: Birthday (T)",
+        "stats": {
+          "HP": "245",
+          "ATK": "43",
+          "DEF": "55",
+          "CRT": "1",
+          "SP": "0"
+        },
+        "skill_name": "Companionship",
+        "skill_description": "Total DMG increases by 10,0%. Fu Hua equip bonus: Gains 10,0% ATK Speed."
+      }
+    },
+    "set": {},
+    "images": {
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/4e/Fu_Hua_-_Birthday_%28T%29_%28Icon%29.png/revision/latest?cb=20231118020323",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c5/Fu_Hua_-_Birthday_%28T%29.png/revision/latest?cb=20240802203605"
+      }
+    }
+  },
+  "Fu Hua: Margrave": {
+    "name": "Fu Hua: Margrave",
+    "positions": {
+      "T": {
+        "name": "Fu Hua: Margrave (T)",
+        "stats": {
+          "HP": "422",
+          "ATK": "115",
+          "DEF": "22",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Blazing Anser",
+        "skill_description": "Deals 20.0% more Fire DMG; with Fyreheart active, all team members gain 20.0% Fire, Ice and Lightning DMG. This effect cannot stack."
+      },
+      "M": {
+        "name": "Fu Hua: Margrave (M)",
+        "stats": {
+          "HP": "579",
+          "ATK": "0",
+          "DEF": "177",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Stalwart Flame",
+        "skill_description": "Deals 30.0% more Fire DMG; with Fyreheart active, all team members heal 20 HP per second. This effect cannot stack."
+      },
+      "B": {
+        "name": "Fu Hua: Margrave (B)",
+        "stats": {
+          "HP": "458",
+          "ATK": "64",
+          "DEF": "22",
+          "CRT": "10",
+          "SP": "0"
+        },
+        "skill_name": "Marchers' Dread",
+        "skill_description": "ATK Speed increases by 20.0%; with Fyreheart active, all enemies less than 40 meters away from any team member suffer Warhaunt (effect does not stack), taking 14.0% more Total DMG."
+      }
+    },
+    "set": {
+      "name": "Guard Emperya",
+      "2_piece": {
+        "name": "Tireless Warrior",
+        "effect": "Deals 30.0% more Fire DMG; after spending no less than 25 SP in one action, the team gains Fyreheart for 18s (triggering this again resets the duration)."
+      },
+      "3_piece": {
+        "name": "Feared Champion",
+        "effect": "When spending no less than 60/120 SP in one action, Fyreheart triggered thereupon causes enemies affected by Warhaunt to take 17.0%/20.0% more Total DMG (Warhaunt effect does not stack). Fu Hua equip bonus: Minimum SP cost to activate Fyreheart is reduced to 15."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/6c/Fu_Hua_-_Margrave_%28B%29.png/revision/latest?cb=20240804161425",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/3f/Fu_Hua_-_Margrave_%28B%29_%28Icon%29.png/revision/latest?cb=20231118020537"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/88/Fu_Hua_-_Margrave_%28T%29_%28Icon%29.png/revision/latest?cb=20231118020454",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/6c/Fu_Hua_-_Margrave_%28T%29.png/revision/latest?cb=20240804161345"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/25/Fu_Hua_-_Margrave_%28M%29_%28Icon%29.png/revision/latest?cb=20231118020514",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Fu_Hua_-_Margrave_%28M%29.png/revision/latest?cb=20240804161407"
+      }
+    }
+  },
+  "Fu Hua: Ordinary Day": {
+    "name": "Fu Hua: Ordinary Day",
+    "positions": {
+      "T": {
+        "name": "Fu Hua: Ordinary Day (T)",
+        "stats": {
+          "HP": "391",
+          "ATK": "112",
+          "DEF": "66",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Petals of Greater Beauty",
+        "skill_description": "For every 100 max HP, increases Fire DMG by 1.00%, up to 70%."
+      },
+      "M": {
+        "name": "Fu Hua: Ordinary Day (M)",
+        "stats": {
+          "HP": "410",
+          "ATK": "0",
+          "DEF": "287",
+          "CRT": "5",
+          "SP": "0"
+        },
+        "skill_name": "Cooking Fire in the Morning",
+        "skill_description": "Increases max HP by 500.0. This increase is unaffected by max HP percentage increases. When recovering HP, enemies take 20.0% more Fire DMG from the character for 10s (independent). Retriggering refreshes duration."
+      },
+      "B": {
+        "name": "Fu Hua: Ordinary Day (B)",
+        "stats": {
+          "HP": "367",
+          "ATK": "61",
+          "DEF": "88",
+          "CRT": "14",
+          "SP": "0"
+        },
+        "skill_name": "Fireworks of Peace and Prosperity",
+        "skill_description": "Increases Total DMG by 30.0%. Attacks that are neither Ultimate nor burst mode deal 50.0% more Fire DMG. When HP is at or below 75%, Ultimate or burst mode attacks deal 20.0% more Fire DMG. Fenghuang of Vicissitude equip bonus: The last effect gains a 40% increase."
+      }
+    },
+    "set": {
+      "name": "Flavors of Time",
+      "2_piece": {
+        "name": "Hustle and Bustle",
+        "effect": "Recovering or losing HP increases the character's Total DMG by 3.5%. Stacks up to 10 times. Stacking CD: 0.4s. All stacks are cleared on exit."
+      },
+      "3_piece": {
+        "name": "The Many Walks of Life",
+        "effect": "Each stack from the 2-pc bonus also increases Fire DMG by 3.0%. The character recovers 50 HP every 1s for 5s upon exit. Retriggering refreshes duration. Fu Hua equip bonus: All enemies take 27.0% more Total DMG from the character."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/80/Fu_Hua_-_Ordinary_Day_%28B%29.png/revision/latest?cb=20240106114957",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/06/Fu_Hua_-_Ordinary_Day_%28B%29_%28Icon%29.png/revision/latest?cb=20240106114937"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/2f/Fu_Hua_-_Ordinary_Day_%28T%29_%28Icon%29.png/revision/latest?cb=20240106114715",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/aa/Fu_Hua_-_Ordinary_Day_%28T%29.png/revision/latest?cb=20240106114801"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/6e/Fu_Hua_-_Ordinary_Day_%28M%29_%28Icon%29.png/revision/latest?cb=20240106114840",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/eb/Fu_Hua_-_Ordinary_Day_%28M%29.png/revision/latest?cb=20240106114821"
+      }
+    }
+  },
+  "Fu Hua: Pride": {
+    "name": "Fu Hua: Pride",
+    "positions": {
+      "B": {
+        "name": "Fu Hua: Pride (B)",
+        "stats": {
+          "HP": "434",
+          "ATK": "33",
+          "DEF": "87",
+          "CRT": "8",
+          "SP": "0"
+        },
+        "skill_name": "Pride",
+        "skill_description": "The host gains 30% Melee Physical DMG. However, for each enemy kill, Total DMG received by the host increases by 7% for 30s; this effect stacks up to 10 times."
+      }
+    },
+    "set": {},
+    "images": {
+      "B": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/20/Fu_Hua_-_Pride_%28B%29_%28Icon%29.png/revision/latest?cb=20231117030655",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/3b/Fu_Hua_-_Pride_%28B%29.png/revision/latest?cb=20180605095345"
+      }
+    }
+  },
+  "Fu Hua: Snowgazing": {
+    "name": "Fu Hua: Snowgazing",
+    "positions": {
+      "T": {
+        "name": "Fu Hua: Snowgazing (T)",
+        "stats": {
+          "HP": "245",
+          "ATK": "59",
+          "DEF": "27",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "White Pine",
+        "skill_description": "For 5 seconds, Total DMG increases by 12,0% when receiving DMG. Restores 150,0 HP afterwards. CD: 20s."
+      }
+    },
+    "set": {},
+    "images": {
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/2d/Fu_Hua_-_Snowgazing_%28T%29_%28Icon%29.png/revision/latest?cb=20231116204949",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/dd/Fu_Hua_-_Snowgazing_%28T%29.png/revision/latest?cb=20220924153422"
+      }
+    }
+  },
+  "Fuxi": {
+    "name": "Fuxi",
+    "positions": {
+      "T": {
+        "name": "Fuxi (T)",
+        "stats": {
+          "HP": "568",
+          "ATK": "91",
+          "DEF": "25",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Water to Thunder",
+        "skill_description": "Attacks against frozen enemies gain 92% Elemental DMG."
+      },
+      "M": {
+        "name": "Fuxi (M)",
+        "stats": {
+          "HP": "568",
+          "ATK": "0",
+          "DEF": "25",
+          "CRT": "14",
+          "SP": "0"
+        },
+        "skill_name": "Thunder to Fire",
+        "skill_description": "Attacks against paralyzed enemies gain 92% Elemental DMG."
+      },
+      "B": {
+        "name": "Fuxi (B)",
+        "stats": {
+          "HP": "568",
+          "ATK": "45",
+          "DEF": "25",
+          "CRT": "8",
+          "SP": "0"
+        },
+        "skill_name": "Metal to Water",
+        "skill_description": "Attacks against ignited enemies gain 51% Elemental DMG."
+      }
+    },
+    "set": {
+      "name": "Code of Civilization",
+      "2_piece": {
+        "name": "Heavenly Three",
+        "effect": "Gain 15% to Max HP and shortens CDs of host's Ultimate and Evasion skills by 20% in battle."
+      },
+      "3_piece": {
+        "name": "Earthly Six",
+        "effect": "When there are 3 or more enemies on the battlefield, take 50% less Elemental DMG and attacks gain 60% Elemental DMG."
+      }
+    },
+    "images": {
+      "M": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/9a/Fuxi_%28Stigmata%29_%28M%29.png/revision/latest?cb=20240804161130",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/a0/Fuxi_%28Stigmata%29_%28M%29_%28Icon%29.png/revision/latest?cb=20231117033006"
+      },
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e7/Fuxi_%28Stigmata%29_%28B%29.png/revision/latest?cb=20240804161145",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Fuxi_%28Stigmata%29_%28B%29_%28Icon%29.png/revision/latest?cb=20231117033026"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/79/Fuxi_%28Stigmata%29_%28T%29_%28Icon%29.png/revision/latest?cb=20240620180905",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Fuxi_%28Stigmata%29_%28T%29.png/revision/latest?cb=20220924165208"
+      }
+    }
+  },
+  "Galileo": {
+    "name": "Galileo",
+    "positions": {
+      "T": {
+        "name": "Galileo (T)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Pendulum",
+        "skill_description": "For 3.0s (5.0s at 4★) after Ultimate Evasion, attacks gain 5% (15% at 4★) Total DMG Multiplier. Re-triggering this effect resets the duration."
+      },
+      "M": {
+        "name": "Galileo (M)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Free Fall",
+        "skill_description": "Gain 3% (5% at 4★) Total DMG Multiplier. Attacks against airborne enemies gain an additional 5% (10% at 4★) Total DMG Multiplier."
+      },
+      "B": {
+        "name": "Galileo (B)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Inertia",
+        "skill_description": "When repeating attacks on the same target (target resets if no attacks were made for 2.5s), each attack gains 1% Crit Rate up to a max of 5% (10% at 4★) bonus Crit Rate."
+      }
+    },
+    "set": {
+      "name": "Cosmic Observer",
+      "2_piece": {
+        "name": "Heliocentrism",
+        "effect": "Gain 30% Melee Crit DMG."
+      },
+      "3_piece": {
+        "name": "Sunspot Observation",
+        "effect": "Receive 40% less Indirect Physical DMG (such as bleeding)."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/76/Galileo_%28B%29.png/revision/latest?cb=20240802182628",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/8b/Galileo_%28B%29_%28Icon%29.png/revision/latest?cb=20231117003454"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/78/Galileo_%28T%29_%28Icon%29.png/revision/latest?cb=20231117003412",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/1a/Galileo_%28T%29.png/revision/latest?cb=20240802182555"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/d6/Galileo_%28M%29_%28Icon%29.png/revision/latest?cb=20231117003434",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/30/Galileo_%28M%29.png/revision/latest?cb=20240802182614"
+      }
+    }
+  },
+  "Gemina's Date": {
+    "name": "Gemina's Date",
+    "positions": {
+      "B": {
+        "name": "Gemina's Date (B)",
+        "stats": {
+          "HP": "434",
+          "ATK": "26",
+          "DEF": "88",
+          "CRT": "8",
+          "SP": "0"
+        },
+        "skill_name": "Sweet Imp",
+        "skill_description": "Physical DMG increases by 20,0% when there is only 1 enemy on the battlefield."
+      }
+    },
+    "set": {},
+    "images": {
+      "B": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/25/Gemina%27s_Date_%28B%29_%28Icon%29.png/revision/latest?cb=20231118020305",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/1d/Gemina%27s_Date_%28B%29.png/revision/latest?cb=20220112102814"
+      }
+    }
+  },
+  "Gemina's Tour": {
+    "name": "Gemina's Tour",
+    "positions": {
+      "B": {
+        "name": "Gemina's Tour (B)",
+        "stats": {
+          "HP": "276",
+          "ATK": "16",
+          "DEF": "55",
+          "CRT": "5",
+          "SP": "0"
+        },
+        "skill_name": "Modern Twins",
+        "skill_description": "When the team has Liliya or Rozaliya, the host gains 20,0% Physical DMG."
+      }
+    },
+    "set": {},
+    "images": {
+      "B": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/a4/Gemina%27s_Tour_%28B%29_%28Icon%29.png/revision/latest?cb=20231116194429",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/d3/Gemina%27s_Tour_%28B%29.png/revision/latest?cb=20240802202521"
+      }
+    }
+  },
+  "Gemina: Spring": {
+    "name": "Gemina: Spring",
+    "positions": {
+      "B": {
+        "name": "Gemina: Spring (B)",
+        "stats": {
+          "HP": "276",
+          "ATK": "33",
+          "DEF": "27",
+          "CRT": "3",
+          "SP": "0"
+        },
+        "skill_name": "Dessert Please",
+        "skill_description": "Crit Rate increases by 8,0%. Rozaliya & Liliya equip bonus: Basic, Combo, and Charged ATK deal 10,0% bonus Physical DMG."
+      }
+    },
+    "set": {},
+    "images": {
+      "B": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/fb/Gemina_-_Spring_%28B%29_%28Icon%29.png/revision/latest?cb=20231116205000",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f1/Gemina_-_Spring_%28B%29.png/revision/latest?cb=20220924153620"
+      }
+    }
+  },
+  "Griseo: Fairy Tale": {
+    "name": "Griseo: Fairy Tale",
+    "positions": {
+      "M": {
+        "name": "Griseo: Fairy Tale (M)",
+        "stats": {
+          "HP": "291",
+          "ATK": "16",
+          "DEF": "82",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "In the Woods",
+        "skill_description": "Casting Ultimate restores 10,0 HP for team members for 8s and increases their Ignore Interrupt, but getting hit ends the effect. Triggering it again resets the duration (cannot stack)."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/1b/Griseo_-_Fairy_Tale_%28M%29_%28Icon%29.png/revision/latest?cb=20231116173401",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/df/Griseo_-_Fairy_Tale_%28M%29.png/revision/latest?cb=20230225195719"
+      }
+    }
+  },
+  "Griseo: Hiking": {
+    "name": "Griseo: Hiking",
+    "positions": {
+      "T": {
+        "name": "Griseo: Hiking (T)",
+        "stats": {
+          "HP": "236",
+          "ATK": "54",
+          "DEF": "55",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Country Picnic",
+        "skill_description": "Character gains 15.0% Crit Rate. Disabled for 5s after being hit."
+      }
+    },
+    "set": {},
+    "images": {
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c5/Griseo_-_Hiking_%28T%29_%28Icon%29.png/revision/latest?cb=20231117233333",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/42/Griseo_-_Hiking_%28T%29.png/revision/latest?cb=20231015094653"
+      }
+    }
+  },
+  "Gustav Klimt": {
+    "name": "Gustav Klimt",
+    "positions": {
+      "T": {
+        "name": "Gustav Klimt (T)",
+        "stats": {
+          "HP": "374",
+          "ATK": "116",
+          "DEF": "55",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Curse Sensitive",
+        "skill_description": "Gain 20% Physical DMG. Hits taken from an enemy affected by Hematic Curse gain 20% Total DMG Reduction."
+      },
+      "M": {
+        "name": "Gustav Klimt (M)",
+        "stats": {
+          "HP": "507",
+          "ATK": "0",
+          "DEF": "177",
+          "CRT": "8",
+          "SP": "0"
+        },
+        "skill_name": "Heat of the Moment",
+        "skill_description": "Upon using weapon active skill, team gains 20% Physical DMG for 8s. CD: 16s. Effect cannot stack."
+      },
+      "B": {
+        "name": "Gustav Klimt (B)",
+        "stats": {
+          "HP": "410",
+          "ATK": "73",
+          "DEF": "22",
+          "CRT": "9",
+          "SP": "0"
+        },
+        "skill_name": "Vigor Siphon",
+        "skill_description": "Attacks made against an enemy with Hematic Curse has 100% chance to heal the team for 80 HP. CD: 3s."
+      }
+    },
+    "set": {
+      "name": "s",
+      "2_piece": {
+        "name": "Blood Curse",
+        "effect": "Upon using weapon active skill (CD: 16s), apply a 8s Hematic Curse to enemies within a 6-meter AOE center on self. Enemies affected by Hematic Curse take 10% more Physical DMG."
+      },
+      "3_piece": {
+        "name": "Soul Shield",
+        "effect": "Character takes 50% less indirect DMG. Hematic Curse duration is extended by 2s."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/bc/Gustav_Klimt_%28B%29.png/revision/latest?cb=20240804161007",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/a3/Gustav_Klimt_%28B%29_%28Icon%29.png/revision/latest?cb=20231117235040"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/51/Gustav_Klimt_%28T%29_%28Icon%29.png/revision/latest?cb=20231117234959",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/7b/Gustav_Klimt_%28T%29.png/revision/latest?cb=20240804161042"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/01/Gustav_Klimt_%28M%29_%28Icon%29.png/revision/latest?cb=20231117235018",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/14/Gustav_Klimt_%28M%29.png/revision/latest?cb=20240804161025"
+      }
+    }
+  },
+  "HOMU": {
+    "name": "HOMU",
+    "positions": {
+      "T": {
+        "name": "HOMU (T)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Transaction",
+        "skill_description": "When Basic ATKs (including Combo and Charged ATKs) hit an enemy, there is a 30% (50% at 4★) chance of dropping HOMU Coins (CD: 4s). For each HOMU Coin picked up, the host gains 5% (10% at 4★) Total DMG Multiplier for 10 sec. Stacks up to 3 times."
+      },
+      "M": {
+        "name": "HOMU (M)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Treasure Hunt",
+        "skill_description": "Extends pick-up ranges of all allies by 0.5 (1.5 at 4★) meters."
+      },
+      "B": {
+        "name": "HOMU (B)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Fleet Feet",
+        "skill_description": "Gain 10% (20% at 4★) Move Speed."
+      }
+    },
+    "set": {
+      "name": "HOMU-HOMU Adventure",
+      "2_piece": {
+        "name": "Explosive HOMU",
+        "effect": "After picking up 1 HOMU Coins consecutively, generate a BOOM HOMU on the spot that explodes after a delay, dealing 400% ATK of Physical DMG to enemies within a 4-meter radius."
+      },
+      "3_piece": {
+        "name": "King HOMU's Treasure",
+        "effect": "After picking up 3 HOMU Coins consecutively, the host heals 10% HP and gains 10% SP."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/14/HOMU_%28B%29.png/revision/latest?cb=20240802182449",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/b5/HOMU_%28B%29_%28Icon%29.png/revision/latest?cb=20240619233643"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/bf/HOMU_%28T%29_%28Icon%29.png/revision/latest?cb=20231117003524",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/64/HOMU_%28T%29.png/revision/latest?cb=20240802182522"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/68/HOMU_%28M%29_%28Icon%29.png/revision/latest?cb=20240619233540",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/fb/HOMU_%28M%29.png/revision/latest?cb=20240802182506"
+      }
+    }
+  },
+  "HOMU: Gym": {
+    "name": "HOMU: Gym",
+    "positions": {
+      "M": {
+        "name": "HOMU: Gym (M)",
+        "stats": {
+          "HP": "291",
+          "ATK": "0",
+          "DEF": "110",
+          "CRT": "1",
+          "SP": "0"
+        },
+        "skill_name": "Muscle Tone",
+        "skill_description": "Switch (and QTE) skills deal 15,0% more Physical DMG. After entry, host takes 20,0% less Physical DMG for 10s. Does not trigger again for this duration."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/d9/HOMU_-_Gym_%28M%29_%28Icon%29.png/revision/latest?cb=20231118021251",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e0/HOMU_-_Gym_%28M%29.png/revision/latest?cb=20240802202257"
+      }
+    }
+  },
+  "Hanabi Fireworks": {
+    "name": "Hanabi Fireworks",
+    "positions": {
+      "T": {
+        "name": "Bronya: Hanabi Fireworks (T)",
+        "stats": {
+          "HP": "367",
+          "ATK": "88",
+          "DEF": "73",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Gentle Touch",
+        "skill_description": "Gain 25% Melee Physical DMG."
+      },
+      "M": {
+        "name": "Kiana: Hanabi Fireworks (M)",
+        "stats": {
+          "HP": "439",
+          "ATK": "0",
+          "DEF": "165",
+          "CRT": "6",
+          "SP": "0"
+        },
+        "skill_name": "Hanabi",
+        "skill_description": "When Combo or Charged ATK hits the enemy, deal an additional 200% ATK of Fire DMG. CD: 3s."
+      },
+      "B": {
+        "name": "Himeko: Hanabi Fireworks (B)",
+        "stats": {
+          "HP": "415",
+          "ATK": "36",
+          "DEF": "88",
+          "CRT": "10",
+          "SP": "0"
+        },
+        "skill_name": "The Crowd",
+        "skill_description": "When there are nearby enemies, heal self for 30 HP per second."
+      }
+    },
+    "set": {
+      "name": "s",
+      "2_piece": {
+        "name": "Hanabi Fest",
+        "effect": "Upon using weapon active skill, surrounding enemies take 100% ATK of Physical DMG and 100% ATK of Fire DMG every 0.5s for 6s. Triggering this again resets the duration."
+      },
+      "3_piece": {
+        "name": "XXXL Firecrackers",
+        "effect": "Gain 10% Crit Rate and 60% Crit DMG to self."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/bd/Hanabi_Fireworks_%28B%29.png/revision/latest?cb=20190802222813",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/29/Hanabi_Fireworks_%28B%29_%28Icon%29.png/revision/latest?cb=20240621014958"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/a4/Hanabi_Fireworks_%28T%29_%28Icon%29.png/revision/latest?cb=20240621014914",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/52/Hanabi_Fireworks_%28T%29.png/revision/latest?cb=20190802222809"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/db/Hanabi_Fireworks_%28M%29_%28Icon%29.png/revision/latest?cb=20240621014942",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/80/Hanabi_Fireworks_%28M%29.png/revision/latest?cb=20190802222816"
+      }
+    }
+  },
+  "Handel": {
+    "name": "Handel",
+    "positions": {
+      "T": {
+        "name": "Handel (T)",
+        "stats": {
+          "HP": "376",
+          "ATK": "114",
+          "DEF": "66",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Water Music",
+        "skill_description": "Lightning DMG increases by 20.0%. Landing QTE increases the Lightning DMG from teammates on the field by 30.0% for 20s (can be refreshed but cannot stack)."
+      },
+      "M": {
+        "name": "Handel (M)",
+        "stats": {
+          "HP": "507",
+          "ATK": "0",
+          "DEF": "199",
+          "CRT": "5",
+          "SP": "0"
+        },
+        "skill_name": "Royal Fireworks",
+        "skill_description": "Total DMG increases by 15.0%. Landing a weapon active increases Lightning DMG by 40.0% for 10s (can be refreshed)."
+      },
+      "B": {
+        "name": "Handel (B)",
+        "stats": {
+          "HP": "410",
+          "ATK": "60",
+          "DEF": "110",
+          "CRT": "8",
+          "SP": "0"
+        },
+        "skill_name": "Messiah",
+        "skill_description": "Lightning DMG increases by 30.0%. Landing Combo/Charged ATKs increases Total DMG by 15.0% and restores 1.0 SP/s for 10s (can be refreshed)."
+      }
+    },
+    "set": {
+      "name": "High Baroque Maestro",
+      "2_piece": {
+        "name": "Redemptive Resurrection",
+        "effect": "Lightning DMG increases by 30.0%. Casting Ultimate triggers the effects of all equipped stigma pieces (triggering it again refreshes the duration)."
+      },
+      "3_piece": {
+        "name": "Praise of Heaven",
+        "effect": "Teammates on the field gain 20.0% Total DMG Multiplier (cannot stack). Upon spending at least 60/120 SP in one go, all enemies take 10.0%/35.0% bonus Lightning DMG for 20s (can be refreshed but cannot stack)."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/7f/Handel_%28B%29.png/revision/latest?cb=20240804160811",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/58/Handel_%28B%29_%28Icon%29.png/revision/latest?cb=20231116210941"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/9c/Handel_%28T%29_%28Icon%29.png/revision/latest?cb=20231116210651",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/cb/Handel_%28T%29.png/revision/latest?cb=20240804160707"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/1a/Handel_%28M%29_%28Icon%29.png/revision/latest?cb=20231116210922",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/68/Handel_%28M%29.png/revision/latest?cb=20240804160748"
+      }
+    }
+  },
+  "Hannah": {
+    "name": "Hannah",
+    "positions": {
+      "T": {
+        "name": "Hannah (T)",
+        "stats": {
+          "HP": "248",
+          "ATK": "40",
+          "DEF": "5",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Switch Skill Boost",
+        "skill_description": "Switch skill (and QTE) gain 10% Physical DMG."
+      },
+      "M": {
+        "name": "Hannah (M)",
+        "stats": {
+          "HP": "248",
+          "ATK": "0",
+          "DEF": "5",
+          "CRT": "3",
+          "SP": "0"
+        },
+        "skill_name": "Switch Skill Boost",
+        "skill_description": "Switch skill (and QTE) gain 10% Physical DMG."
+      },
+      "B": {
+        "name": "Hannah (B)",
+        "stats": {
+          "HP": "248",
+          "ATK": "20",
+          "DEF": "5",
+          "CRT": "1",
+          "SP": "0"
+        },
+        "skill_name": "Switch Skill Boost",
+        "skill_description": "Switch skill (and QTE) gain 10% Physical DMG."
+      }
+    },
+    "set": {
+      "name": "Teutonic Order",
+      "2_piece": {
+        "name": "Dual Guns Master",
+        "effect": "Gain 15% Melee Physical DMG. Kiana or Kallen equip bonus: Gain 5% Max HP in battle."
+      },
+      "3_piece": {
+        "name": "Speed Boost",
+        "effect": "Gain 15% Move Speed."
+      }
+    },
+    "images": {
+      "T": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/43/Hannah_%28T%29.png/revision/latest?cb=20220924123125",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/5b/Hannah_%28T%29_%28Icon%29.png/revision/latest?cb=20231117003710"
+      },
+      "M": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c7/Hannah_%28M%29.png/revision/latest?cb=20220924123146",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/89/Hannah_%28M%29_%28Icon%29.png/revision/latest?cb=20231117003728"
+      },
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/30/Hannah_%28B%29.png/revision/latest?cb=20220924123105",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/77/Hannah_%28B%29_%28Icon%29.png/revision/latest?cb=20240619231546"
+      }
+    }
+  },
+  "Heartfelt Memories": {
+    "name": "Heartfelt Memories",
+    "positions": {
+      "T": {
+        "name": "Kiana's Gift (T)",
+        "stats": {
+          "HP": "410",
+          "ATK": "83",
+          "DEF": "66",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Kiana's Present",
+        "skill_description": "In combat, when Max HP is greater than 800, gain 4% Physical DMG for every 400 HP exceeded. Stacks up to 7 times."
+      },
+      "M": {
+        "name": "Mei's Gift (M)",
+        "stats": {
+          "HP": "410",
+          "ATK": "0",
+          "DEF": "199",
+          "CRT": "5",
+          "SP": "0"
+        },
+        "skill_name": "Mei's Present",
+        "skill_description": "In combat, when Max HP is more than 800, gain 3% Physical DMG Reduction against enemy hits for every 400 HP exceeded. Stacks up to 7 times."
+      },
+      "B": {
+        "name": "Bronya's Gift (B)",
+        "stats": {
+          "HP": "458",
+          "ATK": "41",
+          "DEF": "44",
+          "CRT": "8",
+          "SP": "0"
+        },
+        "skill_name": "Bronya's Present",
+        "skill_description": "In combat, when Max HP is higher than 800, the host gains 2% Attack Speed for every 400 HP exceeded. Stacks up to 7 times."
+      }
+    },
+    "set": {
+      "name": "Heartfelt Memories",
+      "2_piece": {
+        "name": "Anniversary",
+        "effect": "Gain 30 CRT and 40% Crit DMG."
+      },
+      "3_piece": {
+        "name": "Celebration",
+        "effect": "Gain 15% Max HP in battle. Reduce skill activation SP cost by 30%."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/15/Heartfelt_Memories_%28B%29.png/revision/latest?cb=20240804160521",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/23/Heartfelt_Memories_%28B%29_%28Icon%29.png/revision/latest?cb=20231117233823"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f8/Heartfelt_Memories_%28T%29_%28Icon%29.png/revision/latest?cb=20231117233739",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e7/Heartfelt_Memories_%28T%29.png/revision/latest?cb=20240804160556"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/23/Heartfelt_Memories_%28M%29_%28Icon%29.png/revision/latest?cb=20231117233801",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/2c/Heartfelt_Memories_%28M%29.png/revision/latest?cb=20240804160537"
+      }
+    }
+  },
+  "Herrscher Shoppers": {
+    "name": "Herrscher Shoppers",
+    "positions": {
+      "T": {
+        "name": "Thundering Shopper (T)",
+        "stats": {
+          "HP": "245",
+          "ATK": "43",
+          "DEF": "55",
+          "CRT": "1",
+          "SP": "0"
+        },
+        "skill_name": "Sweep the Shelves",
+        "skill_description": "Lightning DMG increases by 15.0%. Herrscher of Thunder's Combo ATK has a 50% chance to inflict 3 Paralyze Trauma (CD: 7s)."
+      },
+      "M": {
+        "name": "Sentient Shopper (M)",
+        "stats": {
+          "HP": "291",
+          "ATK": "16",
+          "DEF": "82",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Discount",
+        "skill_description": "The host deals 8.0% more Physical DMG. Fu Hua equip bonus: SP cost of weapon active is lowered by 10.0%."
+      },
+      "B": {
+        "name": "Herrscher of Reason: Shopping (B)",
+        "stats": {
+          "HP": "276",
+          "ATK": "33",
+          "DEF": "27",
+          "CRT": "3",
+          "SP": "0"
+        },
+        "skill_name": "Cyber Girl",
+        "skill_description": "Ice DMG increases by 10.0%. Herrscher of Reason equip bonus: Charged ATKs deal 5.0% bonus Ice DMG."
+      }
+    },
+    "set": {
+      "name": "Herrscher Shoppers",
+      "2_piece": {
+        "name": "Special Product",
+        "effect": "Total DMG increases by 10.0% and further increases by 15.0% in Herrscher Form."
+      },
+      "3_piece": {
+        "name": "Herrscher's Vacation",
+        "effect": "Max HP increases by 20.0% and Move Speed increases by 10.0%."
+      }
+    },
+    "images": {
+      "M": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/83/Herrscher_Shoppers_%28M%29.png/revision/latest?cb=20240805122803",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/9f/Herrscher_Shoppers_%28M%29_%28Icon%29.png/revision/latest?cb=20240620161650"
+      },
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Herrscher_Shoppers_%28B%29.png/revision/latest?cb=20240805123326",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e3/Herrscher_Shoppers_%28B%29_%28Icon%29.png/revision/latest?cb=20240620161747"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/8e/Herrscher_Shoppers_%28T%29_%28Icon%29.png/revision/latest?cb=20240620161133",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/52/Herrscher_Shoppers_%28T%29.png/revision/latest?cb=20240805120609"
+      }
+    }
+  },
+  "Herrscher of Finality: Shopping": {
+    "name": "Herrscher of Finality: Shopping",
+    "positions": {
+      "B": {
+        "name": "Herrscher of Finality: Shopping (B)",
+        "stats": {
+          "HP": "261",
+          "ATK": "26",
+          "DEF": "41",
+          "CRT": "6",
+          "SP": "0"
+        },
+        "skill_name": "Dreaming of the Star's Shadow",
+        "skill_description": "When the character is in global Time Fracture, she deals 16.0% more Fire DMG."
+      }
+    },
+    "set": {},
+    "images": {
+      "B": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/3e/Herrscher_of_Finality_-_Shopping_%28B%29_%28Icon%29.png/revision/latest?cb=20240522162512",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/9a/Herrscher_of_Finality_-_Shopping_%28B%29.png/revision/latest?cb=20240522162446"
+      }
+    }
+  },
+  "Herrscher of Flamescion: Shopping": {
+    "name": "Herrscher of Flamescion: Shopping",
+    "positions": {
+      "M": {
+        "name": "Herrscher of Flamescion: Shopping (M)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Summer Solstice Ensemble",
+        "skill_description": "Total DMG dealt by Combo ATK increases by ? (8.0% at 4★). Fire DMG increases by ? (10.0% at 4★)."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/5d/Herrscher_of_Flamescion_-_Shopping_%28M%29_%28Icon%29.png/revision/latest?cb=20220821112734",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/eb/Herrscher_of_Flamescion_-_Shopping_%28M%29.png/revision/latest?cb=20240802202149"
+      }
+    }
+  },
+  "Herrscher of Human: Shopper": {
+    "name": "Herrscher of Human: Shopper",
+    "positions": {
+      "M": {
+        "name": "Herrscher of Human: Shopper (M)",
+        "stats": {
+          "HP": "291",
+          "ATK": "16",
+          "DEF": "82",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Beautiful Encounter",
+        "skill_description": "Using Ultimate increases Physical DMG by 20.0% and restores 20.0 HP per second for 8s. Triggering it again resets the duration. Effect is canceled when hurt by enemy."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/7e/Herrscher_of_Human_-_Shopper_%28M%29_%28Icon%29.png/revision/latest?cb=20240620172239",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c4/Herrscher_of_Human_-_Shopper_%28M%29.png/revision/latest?cb=20240805151613"
+      }
+    }
+  },
+  "Herrscher of Sentience: Fu-tune Tea": {
+    "name": "Herrscher of Sentience: Fu-tune Tea",
+    "positions": {
+      "T": {
+        "name": "Herrscher of Sentience: Fu-tune Tea (T)",
+        "stats": {
+          "HP": "245",
+          "ATK": "59",
+          "DEF": "27",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Bubble Tea",
+        "skill_description": "Host takes 10,0% less Total DMG. Attacks have a 20,0% chance of restoring 100,0 HP for the host; CD: 7s."
+      }
+    },
+    "set": {},
+    "images": {
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c4/Herrscher_of_Sentience_-_Fu-tune_Tea_%28T%29_%28Icon%29.png/revision/latest?cb=20220112101038",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/54/Herrscher_of_Sentience_-_Fu-tune_Tea_%28T%29.png/revision/latest?cb=20220112101015"
+      }
+    }
+  },
+  "Herrscher of Sentience: Skateboard": {
+    "name": "Herrscher of Sentience: Skateboard",
+    "positions": {
+      "T": {
+        "name": "Herrscher of Sentience: Skateboard (T)",
+        "stats": {
+          "HP": "236",
+          "ATK": "54",
+          "DEF": "55",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Wandering at Ease",
+        "skill_description": "Dealing Crit DMG increases character's Move Speed by 20.0% for 5s. Triggering it again resets the duration. Exclusive."
+      }
+    },
+    "set": {},
+    "images": {
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e9/Herrscher_of_Sentience_-_Skateboard_%28T%29_%28Icon%29.png/revision/latest?cb=20231228110308",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/ac/Herrscher_of_Sentience_-_Skateboard_%28T%29.png/revision/latest?cb=20231228110347"
+      }
+    }
+  },
+  "Herrscher of Truth: Shopping": {
+    "name": "Herrscher of Truth: Shopping",
+    "positions": {
+      "B": {
+        "name": "Herrscher of Truth: Shopping (B)",
+        "stats": {
+          "HP": "276",
+          "ATK": "26",
+          "DEF": "41",
+          "CRT": "6",
+          "SP": "0"
+        },
+        "skill_name": "Autumn Stroll",
+        "skill_description": "Basic, Combo, and Charged ATKs deal 40.0% more Ice DMG."
+      }
+    },
+    "set": {},
+    "images": {
+      "B": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/bf/Herrscher_of_Truth_-_Shopping_%28B%29_%28Icon%29.png/revision/latest?cb=20231117030812",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/bc/Herrscher_of_Truth_-_Shopping_%28B%29.png/revision/latest?cb=20231015075840"
+      }
+    }
+  },
+  "Higokumaru": {
+    "name": "Higokumaru",
+    "positions": {
+      "T": {
+        "name": "Higokumaru (T)",
+        "stats": {
+          "HP": "495",
+          "ATK": "106",
+          "DEF": "70",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Flame Breath",
+        "skill_description": "The host gains 30% (45% at 5★) Fire DMG. When Basic ATKs (including Combo and Charged ATKs) break shields, summons Higokumaru with a base ATK of 200 (600 at 5★) to unleash a continuous 6s Fire Breath dealing 320% of its ATK of Fire DMG. The summoned entity has a 10s CD."
+      },
+      "M": {
+        "name": "Higokumaru (M)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "158",
+          "CRT": "7",
+          "SP": "0"
+        },
+        "skill_name": "Flame Pillar",
+        "skill_description": "Takes 15% (30% at 5★) less Physical DMG from enemy hits. Upon Ultimate Evasion, summons Higokumaru with a base ATK of 200 (600 at 5★) to call forth a Flame Pillar dealing 500% of its ATK of Fire DMG. The summoned entity has a 10s CD."
+      },
+      "B": {
+        "name": "Higokumaru (B)",
+        "stats": {
+          "HP": "0",
+          "ATK": "42",
+          "DEF": "53",
+          "CRT": "9",
+          "SP": "0"
+        },
+        "skill_name": "Blazing Wreath",
+        "skill_description": "For every ignited enemy on the field, gain 3% (6% at 5★) Attack Speed. Stacks up to 3 times. Deals 30% (60% at 5★) ATK of Fire DMG every second to surrounding enemies."
+      }
+    },
+    "set": {
+      "name": "Ancient Willpower",
+      "2_piece": {
+        "name": "Fox Flame",
+        "effect": "For every Combo Hit Count, Higokumaru's attacks gain 1% Fire DMG. Stacks up to 40 times. Host also gains the same fire damage bonus."
+      },
+      "3_piece": {
+        "name": "Fox Shadow",
+        "effect": "Upon entering the battle, if Combo Hit Count is less than 50, instantly increase the count to 50. CD: 30s. Fox Flame can gain 40 more stacks."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/32/Higokumaru_%28Stigmata%29_%28B%29.png/revision/latest?cb=20240804160128",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/39/Higokumaru_%28Stigmata%29_%28B%29_%28Icon%29.png/revision/latest?cb=20231116184642"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/31/Higokumaru_%28Stigmata%29_%28T%29_%28Icon%29.png/revision/latest?cb=20231116184558",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/ba/Higokumaru_%28Stigmata%29_%28T%29.png/revision/latest?cb=20240804160051"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/14/Higokumaru_%28Stigmata%29_%28M%29_%28Icon%29.png/revision/latest?cb=20231116184619",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/39/Higokumaru_%28Stigmata%29_%28M%29.png/revision/latest?cb=20240804160110"
+      }
+    }
+  },
+  "Himeko - Men's Attire": {
+    "name": "Himeko - Men's Attire",
+    "positions": {
+      "T": {
+        "name": "Himeko - Men's Attire (T)",
+        "stats": {
+          "HP": "313",
+          "ATK": "101",
+          "DEF": "52",
+          "CRT": "4",
+          "SP": "0"
+        },
+        "skill_name": "Sky Slash",
+        "skill_description": "Gain 20% Melee Physical DMG. Himeko equip bonus: Charged attacks have a 10% chance of dealing additional 3xATK of Physical DMG. CD: 12s."
+      }
+    },
+    "set": {},
+    "images": {
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c8/Himeko_-_Men%27s_Attire_%28T%29_%28Icon%29.png/revision/latest?cb=20231117030929",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/68/Himeko_-_Men%27s_Attire_%28T%29.png/revision/latest?cb=20220111190422"
+      }
+    }
+  },
+  "Himeko Winter": {
+    "name": "Himeko Winter",
+    "positions": {
+      "M": {
+        "name": "Himeko Winter (M)",
+        "stats": {
+          "HP": "314",
+          "ATK": "0",
+          "DEF": "87",
+          "CRT": "3",
+          "SP": "0"
+        },
+        "skill_name": "Christmas Fireworks",
+        "skill_description": "Max HP increases by 15% in battle. Himeko equip bonus: Basic/Combo/Charged ATKs have a 40% chance to inflict 2 Ignite Trauma, or slow, impair, or weaken enemies for 10s. CD: 10s."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f3/Himeko_Winter_%28M%29_%28Icon%29.png/revision/latest?cb=20231117234826",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/49/Himeko_Winter_%28M%29.png/revision/latest?cb=20240802195906"
+      }
+    }
+  },
+  "Himeko's Birthday": {
+    "name": "Himeko's Birthday",
+    "positions": {
+      "M": {
+        "name": "Himeko's Birthday (M)",
+        "stats": {
+          "HP": "291",
+          "ATK": "0",
+          "DEF": "110",
+          "CRT": "1",
+          "SP": "0"
+        },
+        "skill_name": "Girl in the Arctic",
+        "skill_description": "At 80% or less SP, Basic ATKs (including Combo and Charged ATKs) gain 15% Physical DMG."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/28/Himeko%27s_Birthday_%28M%29_%28Icon%29.png/revision/latest?cb=20231116185926",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/Himeko%27s_Birthday_%28M%29.png/revision/latest?cb=20240802201847"
+      }
+    }
+  },
+  "Himeko: Bride": {
+    "name": "Himeko: Bride",
+    "positions": {
+      "M": {
+        "name": "Himeko: Bride (M)",
+        "stats": {
+          "HP": "291",
+          "ATK": "0",
+          "DEF": "65",
+          "CRT": "8",
+          "SP": "0"
+        },
+        "skill_name": "Sword of Courage",
+        "skill_description": "Charged attacks gain 10% Physical DMG. Himeko equip bonus: Gain 10% Crit DMG."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/5d/Himeko_-_Bride_%28M%29_%28Icon%29.png/revision/latest?cb=20240619233237",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/ae/Himeko_-_Bride_%28M%29.png/revision/latest?cb=20220924150711"
+      }
+    }
+  },
+  "Himeko: Christmas": {
+    "name": "Himeko: Christmas",
+    "positions": {
+      "T": {
+        "name": "Himeko: Christmas (T)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Running Reindeer",
+        "skill_description": "Gain 5% (8% at 4★) Move Speed. Himeko equip bonus: Gain 5% (8% at 4★) Move Speed."
+      },
+      "M": {
+        "name": "Himeko: Christmas (M)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Christmas Snow",
+        "skill_description": "Himeko equip bonus: Nearby enemies suffer 9% (15% at 4★) Attack Slow and 9% (15% at 4★) Move Slow."
+      },
+      "B": {
+        "name": "Himeko: Christmas (B)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Jingling Bell",
+        "skill_description": "Attacks on a target drop Jingling Bell. Picking it up recovers 1 (3 at 4★) SP. Double benefits if picked up by Himeko. Drop CD: 5s. Jingling Bell disappears after 8s if not picked up."
+      }
+    },
+    "set": {
+      "name": "Santa Claus",
+      "2_piece": {
+        "name": "Bountiful Gift",
+        "effect": "Charged ATKs gain 15% Physical DMG."
+      },
+      "3_piece": {
+        "name": "Mecha Party",
+        "effect": "When attacking MECH-type enemies, gain 10% Melee Physical DMG. Himeko equip bonus: Gain 10% Physical DMG."
+      }
+    },
+    "images": {
+      "M": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/27/Himeko_-_Christmas_%28M%29.png/revision/latest?cb=20240802182312",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/fd/Himeko_-_Christmas_%28M%29_%28Icon%29.png/revision/latest?cb=20231117234911"
+      },
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/be/Himeko_-_Christmas_%28B%29.png/revision/latest?cb=20240802182332",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/96/Himeko_-_Christmas_%28B%29_%28Icon%29.png/revision/latest?cb=20231117234931"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/1a/Himeko_-_Christmas_%28T%29_%28Icon%29.png/revision/latest?cb=20231117234852",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/02/Himeko_-_Christmas_%28T%29.png/revision/latest?cb=20240802182214"
+      }
+    }
+  },
+  "Himeko: Lust": {
+    "name": "Himeko: Lust",
+    "positions": {
+      "T": {
+        "name": "Himeko: Lust (T)",
+        "stats": {
+          "HP": "410",
+          "ATK": "90",
+          "DEF": "70",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Narcissism",
+        "skill_description": "Gain 15% Max HP in battle. Himeko equip bonus: Any Himeko on the field gains 5% Crit Rate. Effect cannot be stacked."
+      }
+    },
+    "set": {},
+    "images": {
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/57/Himeko_-_Lust_%28T%29_%28Icon%29.png/revision/latest?cb=20231117030901",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/32/Himeko_-_Lust_%28T%29.png/revision/latest?cb=20220527021813"
+      }
+    }
+  },
+  "Himeko: New Year": {
+    "name": "Himeko: New Year",
+    "positions": {
+      "B": {
+        "name": "Himeko: New Year (B)",
+        "stats": {
+          "HP": "339",
+          "ATK": "28",
+          "DEF": "32",
+          "CRT": "3",
+          "SP": "0"
+        },
+        "skill_name": "Happy New Year",
+        "skill_description": "When attacking an enemy, there is a 10% chance of dropping a Red Envelope. CD: 2s. Picking it up will heal 15 HP. Red Envelope disappears after 10s if not picked up."
+      }
+    },
+    "set": {},
+    "images": {
+      "B": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/80/Himeko_-_New_Year_%28B%29_%28Icon%29.png/revision/latest?cb=20240620133824",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/4d/Himeko_-_New_Year_%28B%29.png/revision/latest?cb=20220924143915"
+      }
+    }
+  },
+  "Himeko: Remedial": {
+    "name": "Himeko: Remedial",
+    "positions": {
+      "T": {
+        "name": "Himeko: Remedial (T)",
+        "stats": {
+          "HP": "347",
+          "ATK": "92",
+          "DEF": "66",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Simulated Exam",
+        "skill_description": "Gain 10% to Max HP. ATKs against PSY-type enemies gain 20% Total DMG Multiplier."
+      }
+    },
+    "set": {},
+    "images": {
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/cf/Himeko_-_Remedial_%28T%29_%28Icon%29.png/revision/latest?cb=20231118003508",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/ff/Himeko_-_Remedial_%28T%29.png/revision/latest?cb=20220113112057"
+      }
+    }
+  },
+  "Himeko: Tuition": {
+    "name": "Himeko: Tuition",
+    "positions": {
+      "M": {
+        "name": "Himeko: Tuition (M)",
+        "stats": {
+          "HP": "276",
+          "ATK": "0",
+          "DEF": "110",
+          "CRT": "3",
+          "SP": "0"
+        },
+        "skill_name": "Passing Score",
+        "skill_description": "Combo / charged attacks gain 10% Physical DMG. Kiana equip bonus: Gain 15 Crit."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/fd/Himeko_-_Tuition_%28M%29_%28Icon%29.png/revision/latest?cb=20231118000352",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/5e/Himeko_-_Tuition_%28M%29.png/revision/latest?cb=20240802201633"
+      }
+    }
+  },
+  "Holmes": {
+    "name": "Holmes",
+    "positions": {
+      "T": {
+        "name": "Holmes (T)",
+        "stats": {
+          "HP": "410",
+          "ATK": "109",
+          "DEF": "66",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "221B",
+        "skill_description": "Host deals 18.0% bonus Total DMG and host-inflicted Bleed lasts 36.0% longer."
+      },
+      "M": {
+        "name": "Holmes (M)",
+        "stats": {
+          "HP": "458",
+          "ATK": "0",
+          "DEF": "287",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Stradivari",
+        "skill_description": "All team members' QTEs deal 18.0% bonus Total DMG against bleeding enemies (cannot be stacked)."
+      },
+      "B": {
+        "name": "Holmes (B)",
+        "stats": {
+          "HP": "458",
+          "ATK": "60",
+          "DEF": "66",
+          "CRT": "8",
+          "SP": "0"
+        },
+        "skill_name": "Bartitsu",
+        "skill_description": "After host deals damage to a bleeding enemy, team deals 18.0% bonus Physical DMG for 12s (cannot be stacked but can be reset)."
+      }
+    },
+    "set": {
+      "name": "Detective of the Fog",
+      "2_piece": {
+        "name": "Abductive Reasoning",
+        "effect": "Host attacks inflict a 5s Sanguine Stain on bleeding enemies, making them take 20.0% bonus Physical DMG (cannot stack)."
+      },
+      "3_piece": {
+        "name": "Elementary",
+        "effect": "Sanguine Stain lasts 3s longer."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/04/Holmes_%28B%29.png/revision/latest?cb=20240804154456",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/b3/Holmes_%28B%29_%28Icon%29.png/revision/latest?cb=20240622004340"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c6/Holmes_%28T%29_%28Icon%29.png/revision/latest?cb=20240622004252",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/66/Holmes_%28T%29.png/revision/latest?cb=20240804154531"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/5c/Holmes_%28M%29_%28Icon%29.png/revision/latest?cb=20240622004319",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/be/Holmes_%28M%29.png/revision/latest?cb=20240804154513"
+      }
+    }
+  },
+  "Homecoming Theater": {
+    "name": "Homecoming Theater",
+    "positions": {
+      "T": {
+        "name": "Mei: Princess (T)",
+        "stats": {
+          "HP": "362",
+          "ATK": "98",
+          "DEF": "22",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Princess' Blessing",
+        "skill_description": "For hits on enemies, the host gains 10% Total DMG Reduction for 15s. CD: 5s. Stacks up to 3 times. New stacks do not reset duration. Starts battle with the 3-stack buff."
+      },
+      "M": {
+        "name": "Fu Hua: Knight (M)",
+        "stats": {
+          "HP": "483",
+          "ATK": "0",
+          "DEF": "154",
+          "CRT": "2",
+          "SP": "0"
+        },
+        "skill_name": "Knight's Edge",
+        "skill_description": "Gain 30% Melee Physical DMG. Hits taken by the host also gain 20% Melee Physical DMG."
+      },
+      "B": {
+        "name": "Theresa: Overlord (B)",
+        "stats": {
+          "HP": "434",
+          "ATK": "45",
+          "DEF": "22",
+          "CRT": "10",
+          "SP": "0"
+        },
+        "skill_name": "Devil's Murmur",
+        "skill_description": "Upon scoring a crit hit, the host gains 8% Physical DMG and 8% Move Speed for 15s. CD: 5s. Stacks up to 3 times. New stacks do not reset duration. Starts battle with the 3-stack buff."
+      }
+    },
+    "set": {
+      "name": "Homecoming Theater",
+      "2_piece": {
+        "name": "Dark Night",
+        "effect": "When the host kills an enemy, summon a Kindred (summoned entity); CD: 5s. For every Kindred present, the host gains 10% Total DMG Multiplier. Up to 3 Kindreds can exist at the same time. With 3 Kindreds, the host gains Physical Immunity; the host will lose the immunity buff and all Kindreds when hit by an enemy, for the next 40s, no more Kindreds can be summoned."
+      },
+      "3_piece": {
+        "name": "Dawn",
+        "effect": "With 3 Kindreds, the host gains a one-time 20% Total DMG Multiplier buff for 10s. When all Kindreds disappear, the host gains immediate healing of 2% Max HP/s for 10s."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/78/Homecoming_Theater_%28B%29.png/revision/latest?cb=20240804154416",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/36/Homecoming_Theater_%28B%29_%28Icon%29.png/revision/latest?cb=20231118001144"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/81/Homecoming_Theater_%28T%29_%28Icon%29.png/revision/latest?cb=20231118001106",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/ec/Homecoming_Theater_%28T%29.png/revision/latest?cb=20240804154337"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f5/Homecoming_Theater_%28M%29_%28Icon%29.png/revision/latest?cb=20231118001124",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f6/Homecoming_Theater_%28M%29.png/revision/latest?cb=20240804154356"
+      }
+    }
+  },
+  "Idol Raven": {
+    "name": "Idol Raven",
+    "positions": {
+      "T": {
+        "name": "Idol Raven (T)",
+        "stats": {
+          "HP": "386",
+          "ATK": "94",
+          "DEF": "44",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Fully Dressed",
+        "skill_description": "Elemental DMG increases by 12.0%. Mei/Raven equip bonus: Host takes 15.0% less Elemental DMG."
+      },
+      "M": {
+        "name": "Idol Raven (M)",
+        "stats": {
+          "HP": "434",
+          "ATK": "0",
+          "DEF": "132",
+          "CRT": "13",
+          "SP": "0"
+        },
+        "skill_name": "Shining Waves",
+        "skill_description": "Move Speed increases by 12.0%. Mei/Raven equip bonus: Attacks slow enemy Move Speed by 10.0% for 5.0s. CD: 10s."
+      },
+      "B": {
+        "name": "Idol Raven (B)",
+        "stats": {
+          "HP": "434",
+          "ATK": "41",
+          "DEF": "66",
+          "CRT": "10",
+          "SP": "0"
+        },
+        "skill_name": "Queen of Rock",
+        "skill_description": "Basic, Combo, and Charged ATKs deal 10.0% bonus Total DMG. Mei/Raven equip bonus: Total DMG taken reduces by 15.0%."
+      }
+    },
+    "set": {
+      "name": "Idol Performance",
+      "2_piece": {
+        "name": "Center Stage",
+        "effect": "Total DMG increases by 15.0%. Max HP increases by 15.0%."
+      },
+      "3_piece": {
+        "name": "All Eyes on Me",
+        "effect": "ATK Speed increases by 10.0%. SP cap increases by 10.0%."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/da/Idol_Raven_%28B%29.png/revision/latest?cb=20240804154230",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/0b/Idol_Raven_%28B%29_%28Icon%29.png/revision/latest?cb=20240623092820"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c9/Idol_Raven_%28T%29_%28Icon%29.png/revision/latest?cb=20240623092753",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/d3/Idol_Raven_%28T%29.png/revision/latest?cb=20240804154304"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/88/Idol_Raven_%28M%29_%28Icon%29.png/revision/latest?cb=20240623092807",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/5a/Idol_Raven_%28M%29.png/revision/latest?cb=20240804154249"
+      }
+    }
+  },
+  "Idol Transformation": {
+    "name": "Idol Transformation",
+    "positions": {
+      "T": {
+        "name": "Ai: Blade Supreme (T)",
+        "stats": {
+          "HP": "410",
+          "ATK": "109",
+          "DEF": "66",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Alarm Triggering Flamescion",
+        "skill_description": "Increases Fire DMG from weapon active and Basic ATK by 15.0%. When the host's Charged ATK or Ultimate hits, Fire DMG dealers on the team deal 25.0% more Total DMG for 20s. Triggering it again resets the duration. Cannot stack."
+      },
+      "M": {
+        "name": "Ai: Kurikara (M)",
+        "stats": {
+          "HP": "458",
+          "ATK": "0",
+          "DEF": "199",
+          "CRT": "10",
+          "SP": "0"
+        },
+        "skill_name": "Right-on-target Lightning",
+        "skill_description": "Increases Fire DMG by 30.0% and Ignite Trauma by 25.0%. Reduces Total DMG received by 20.0%."
+      },
+      "B": {
+        "name": "Ai: Project Bunny (B)",
+        "stats": {
+          "HP": "434",
+          "ATK": "57",
+          "DEF": "84",
+          "CRT": "10",
+          "SP": "0"
+        },
+        "skill_name": "Reason on a Rampage",
+        "skill_description": "Increases Total DMG by 15.0%. When weapon active or Ultimate hits, all team members deal 30.0% more Fire DMG for 20s (cannot stack). Triggering it again resets the duration."
+      }
+    },
+    "set": {
+      "name": "Idol Transformation",
+      "2_piece": {
+        "name": "Temporary Female Lead",
+        "effect": "When weapon skill hits, grants 1 stack of Spotlight that increases Fire DMG by 8%. Can only be triggered once per second and can stack 3 times. At max stacks, all team members deal 30.0% more Fire DMG to ignited enemies for 20s. Triggering it again resets the duration. Cannot stack."
+      },
+      "3_piece": {
+        "name": "Idol Spirit",
+        "effect": "Weapon active deals 15.0% more Fire DMG. When an ignited enemy is hit by a team member, it will receive 35.0% more Fire DMG for 5s. Triggering it again resets the duration. Chrono Navi equip bonus: Igniting enemies will make them receive 20.0% more ignite DMG for 10s."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/56/Idol_Transformation_%28B%29.png/revision/latest?cb=20221208032848",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/4a/Idol_Transformation_%28B%29_%28Icon%29.png/revision/latest?cb=20231116173712"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/37/Idol_Transformation_%28T%29_%28Icon%29.png/revision/latest?cb=20231116173627",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/11/Idol_Transformation_%28T%29.png/revision/latest?cb=20221208032814"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f3/Idol_Transformation_%28M%29_%28Icon%29.png/revision/latest?cb=20231116173649",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/3d/Idol_Transformation_%28M%29.png/revision/latest?cb=20221208032825"
+      }
+    }
+  },
+  "Immortal Attire": {
+    "name": "Immortal Attire",
+    "positions": {
+      "T": {
+        "name": "Kiana Immortal Attire (T)",
+        "stats": {
+          "HP": "386",
+          "ATK": "83",
+          "DEF": "89",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Ink Splotch",
+        "skill_description": "Gain 5% (20% at 5★) Lightning and Fire DMG, and gain 15% (30% at 5★) Ice DMG."
+      },
+      "M": {
+        "name": "Bronya Immortal Attire (M)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "155",
+          "CRT": "8",
+          "SP": "0"
+        },
+        "skill_name": "Pathway",
+        "skill_description": "Take 6% (15% at 5★) less Physical DMG, and attacks gain 12% (30% at 5★) Crit DMG."
+      },
+      "B": {
+        "name": "Mei Immortal Attire (B)",
+        "stats": {
+          "HP": "0",
+          "ATK": "32",
+          "DEF": "89",
+          "CRT": "13",
+          "SP": "0"
+        },
+        "skill_name": "Green Silk",
+        "skill_description": "Upon scoring a crit hit, heal self for 80 (200 at 5★) HP. CD: 6s."
+      }
+    },
+    "set": {
+      "name": "Encompassing Beauty",
+      "2_piece": {
+        "name": "Ephemeral",
+        "effect": "Each Combo/Charged ATK (CD: 1s) adds 1 charge. At 4 charges, the host enters Mist Form for 6s (CD: 20s; all charges will be removed when Mist Form ends). Mist Form: Deals 600 Physical DMG against a random enemy within 6-meter radius of self every 0.25s; each target will take no more than 1 hit in each 0.5s span."
+      },
+      "3_piece": {
+        "name": "Exquisite",
+        "effect": "When the Mist effect ends, heal every ally for 30 HP/s for 6s."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/4e/Mei_Immortal_Attire_%28B%29.png/revision/latest?cb=20240804154018",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/8f/Immortal_Attire_%28B%29_%28Icon%29.png/revision/latest?cb=20231116194916"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/cd/Immortal_Attire_%28T%29_%28Icon%29.png/revision/latest?cb=20231116194739",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/60/Kiana_Immortal_Attire_%28T%29.png/revision/latest?cb=20240804153935"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Immortal_Attire_%28M%29_%28Icon%29.png/revision/latest?cb=20231116194839",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c5/Bronya_Immortal_Attire_%28M%29.png/revision/latest?cb=20240804153958"
+      }
+    }
+  },
+  "Irene Adler": {
+    "name": "Irene Adler",
+    "positions": {
+      "T": {
+        "name": "Irene Adler (T)",
+        "stats": {
+          "HP": "398",
+          "ATK": "115",
+          "DEF": "44",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Electrifying Show",
+        "skill_description": "Boosts Lightning DMG by 20.0%. With host on standby, team deals 12.0% bonus Elemental DMG (cannot stack)."
+      },
+      "M": {
+        "name": "Irene Adler (M)",
+        "stats": {
+          "HP": "458",
+          "ATK": "0",
+          "DEF": "199",
+          "CRT": "10",
+          "SP": "0"
+        },
+        "skill_name": "Titillating Scandal",
+        "skill_description": "Boosts Lightning DMG by 20.0%. Host takes 20.0% less Total DMG."
+      },
+      "B": {
+        "name": "Irene Adler (B)",
+        "stats": {
+          "HP": "422",
+          "ATK": "50",
+          "DEF": "22",
+          "CRT": "24",
+          "SP": "0"
+        },
+        "skill_name": "Shocking Deceit",
+        "skill_description": "Boosts Total DMG by 15.0%. Charged and Ultimate ATKs Bewitch enemies hit and make them take 15.0% bonus Elemental DMG for 18s (cannot stack but can be refreshed)."
+      }
+    },
+    "set": {
+      "name": "Phantom of the Fog",
+      "2_piece": {
+        "name": "Startling Victory",
+        "effect": "Boosts Total DMG by 15.0%. Team deals 18.0% bonus Elemental DMG against Bewitched enemies."
+      },
+      "3_piece": {
+        "name": "The Woman",
+        "effect": "Charged and QTE ATKs boost team Lightning DMG by 10.0% on hit for 20s (subsequent procs reset the duration). When equipped by Rita, her Total DMG is boosted by 25.0%."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/19/Irene_Adler_%28B%29.png/revision/latest?cb=20240804153404",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/9c/Irene_Adler_%28B%29_%28Icon%29.png/revision/latest?cb=20231116193242"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/97/Irene_Adler_%28T%29_%28Icon%29.png/revision/latest?cb=20231116193159",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/42/Irene_Adler_%28T%29.png/revision/latest?cb=20240804153435"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/49/Irene_Adler_%28M%29_%28Icon%29.png/revision/latest?cb=20231116193223",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/38/Irene_Adler_%28M%29.png/revision/latest?cb=20240804153421"
+      }
+    }
+  },
+  "Isaac Newton": {
+    "name": "Isaac Newton",
+    "positions": {
+      "T": {
+        "name": "Isaac Newton (T)",
+        "stats": {
+          "HP": "547",
+          "ATK": "91",
+          "DEF": "75",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "The First Law",
+        "skill_description": "Gain 46% Melee Physical DMG. When hit by enemies 2 times, impose a 10.0s CD for this buff."
+      },
+      "M": {
+        "name": "Isaac Newton (M)",
+        "stats": {
+          "HP": "547",
+          "ATK": "0",
+          "DEF": "75",
+          "CRT": "10",
+          "SP": "0"
+        },
+        "skill_name": "The Second Law",
+        "skill_description": "When taking damage from enemy hits, host obtains 41% Move Speed and a barrier that can absorb Physical DMG equal to 21% of her max HP. Duration: 4.0s. CD: 15s."
+      },
+      "B": {
+        "name": "Isaac Newton (B)",
+        "stats": {
+          "HP": "547",
+          "ATK": "46",
+          "DEF": "75",
+          "CRT": "5",
+          "SP": "0"
+        },
+        "skill_name": "The Third Law",
+        "skill_description": "Attacks on the enemy initiates Challenge Mode that lasts 5.0s. During Challenge Mode, attacks gain 41% Total DMG Multiplier but hits taken also gain 31% Total DMG Multiplier. CD: 10s."
+      }
+    },
+    "set": {
+      "name": "Laws of Motion",
+      "2_piece": {
+        "name": "Spectral Jet",
+        "effect": "Basic/Combo/Charged ATKs have a 10% chance to slow, impair, or weaken enemies for 10s, or inflict 3 Paralyze, Rime, Stun, or Ignite Trauma. CD: 2.0s."
+      },
+      "3_piece": {
+        "name": "Deadly Acceleration",
+        "effect": "For every 1.0s, Basic ATK (including Combo and Charged ATKs) gains 20% Total DMG Multiplier. Stacks up to 5 times. Attacking resets the buff and initiates a 7s CD."
+      }
+    },
+    "images": {
+      "M": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/d7/Isaac_Newton_%28M%29.png/revision/latest?cb=20240804153315",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/5d/Isaac_Newton_%28M%29_%28Icon%29.png/revision/latest?cb=20231117003840"
+      },
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/87/Isaac_Newton_%28B%29.png/revision/latest?cb=20240804153329",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/92/Isaac_Newton_%28B%29_%28Icon%29.png/revision/latest?cb=20231117003858"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Isaac_Newton_%28T%29_%28Icon%29.png/revision/latest?cb=20231117003821",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/a0/Isaac_Newton_%28T%29.png/revision/latest?cb=20220924165734"
+      }
+    }
+  },
+  "Ishikawa Goemon": {
+    "name": "Ishikawa Goemon",
+    "positions": {
+      "T": {
+        "name": "Ishikawa Goemon (T)",
+        "stats": {
+          "HP": "410",
+          "ATK": "116",
+          "DEF": "22",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Fuming Dance",
+        "skill_description": "The host gains 1 stack of Dance Art when dealing DMG with Melee ATKs; each stack provides 5.0% Total DMG Reduction and boosts Lightning DMG by 7.0% (Lightning DMG increases by another 5.0% under Kenbu mode). Max stacks: 3. Stack CD: 5s. The host loses 1 stack when attacked, but will not lose more stacks within the next 3s."
+      },
+      "M": {
+        "name": "Ishikawa Goemon (M)",
+        "stats": {
+          "HP": "567",
+          "ATK": "0",
+          "DEF": "177",
+          "CRT": "1",
+          "SP": "0"
+        },
+        "skill_name": "Lightning Brigand",
+        "skill_description": "Total DMG increases by 20.0%. Upon unleashing Ultimate, the host's Lightning DMG increases by 15.0% (Lightning DMG increases by another 10.0% under Kenbu mode) for 6s. CD: 18s."
+      },
+      "B": {
+        "name": "Ishikawa Goemon (B)",
+        "stats": {
+          "HP": "463",
+          "ATK": "65",
+          "DEF": "44",
+          "CRT": "6",
+          "SP": "0"
+        },
+        "skill_name": "Electrified Kagura",
+        "skill_description": "The host deals 35.0% more Lightning DMG. The first attack unleashed after Ultimate Evasion deals an additional 60.0% ATK of Lightning DMG (deals another 60.0% ATK of Lightning DMG under Kenbu mode). CD: 8s."
+      }
+    },
+    "set": {
+      "name": "Ninja Dancer",
+      "2_piece": {
+        "name": "Kenbu Stance",
+        "effect": "The host enters Kenbu mode when hitting an enemy with Combo ATKs, under which her Total DMG increases by 30.00% for 7s. CD: 10s."
+      },
+      "3_piece": {
+        "name": "Indomitable Outlaw",
+        "effect": "The host gains 30.0% Total DMG Reduction and Interrupt Immunity when attacked. CD: 15s. The host restores 400 HP every 20s at below 50% HP."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/79/Ishikawa_Goemon_%28B%29.png/revision/latest?cb=20240804152036",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/90/Ishikawa_Goemon_%28B%29_%28Icon%29.png/revision/latest?cb=20231118020037"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/30/Ishikawa_Goemon_%28T%29_%28Icon%29.png/revision/latest?cb=20231118020002",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/5a/Ishikawa_Goemon_%28T%29.png/revision/latest?cb=20240804152111"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/11/Ishikawa_Goemon_%28M%29_%28Icon%29.png/revision/latest?cb=20231118020019",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/bf/Ishikawa_Goemon_%28M%29.png/revision/latest?cb=20240804152053"
+      }
+    }
+  },
+  "Jin Shengtan": {
+    "name": "Jin Shengtan",
+    "positions": {
+      "T": {
+        "name": "Jin Shengtan (T)",
+        "stats": {
+          "HP": "422",
+          "ATK": "109",
+          "DEF": "55",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Heritage",
+        "skill_description": "Gain 40% DEF in battle. Allies in the Blue Phoenix field gain 15% Elemental DMG. This effect cannot stack."
+      },
+      "M": {
+        "name": "Jin Shengtan (M)",
+        "stats": {
+          "HP": "519",
+          "ATK": "0",
+          "DEF": "177",
+          "CRT": "6",
+          "SP": "0"
+        },
+        "skill_name": "Ice Blossom",
+        "skill_description": "After exit, team gains 15% Ice Resistance and 15% Ice DMG (effect cannot stack). When on the field, the host gains 35% Ice DMG."
+      },
+      "B": {
+        "name": "Jin Shengtan (B)",
+        "stats": {
+          "HP": "495",
+          "ATK": "45",
+          "DEF": "110",
+          "CRT": "9",
+          "SP": "0"
+        },
+        "skill_name": "Christen",
+        "skill_description": "Gain 15% Attack Speed. Allies in the Blue Phoenix field gain 20% Total DMG Reduction. This effect cannot stack."
+      }
+    },
+    "set": {
+      "name": "Critic",
+      "2_piece": {
+        "name": "Blue Phoenix",
+        "effect": "Attacks create a Blue Phoenix field that lasts for 6s (cannot stack). CD: 9s. Allies within the field gain 30% Elemental DMG, while enemies within take 10% bonus Elemental DMG."
+      },
+      "3_piece": {
+        "name": "Cathartic Aura",
+        "effect": "Extends the duration of the Blue Phoenix field by 3s. Allies within the field receive Ice Protection. When damage taken is less than 10 × Valkyrie's Level, host will only take damage and not be interrupted."
+      }
+    },
+    "images": {
+      "T": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/46/Jin_Shengtan_%28T%29.png/revision/latest?cb=20220827133341",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/5c/Jin_Shengtan_%28T%29_%28Icon%29.png/revision/latest?cb=20231117234657"
+      },
+      "M": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e4/Jin_Shengtan_%28M%29.png/revision/latest?cb=20220827133403",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e4/Jin_Shengtan_%28M%29_%28Icon%29.png/revision/latest?cb=20231117234718"
+      },
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/91/Jin_Shengtan_%28B%29.png/revision/latest?cb=20220827133422",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/22/Jin_Shengtan_%28B%29_%28Icon%29.png/revision/latest?cb=20231117234739"
+      }
+    }
+  },
+  "Jingwei": {
+    "name": "Jingwei",
+    "positions": {
+      "T": {
+        "name": "Jingwei (T)",
+        "stats": {
+          "HP": "522",
+          "ATK": "86",
+          "DEF": "48",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Spreading Wings",
+        "skill_description": "When there are no more than 1 enemies on the battlefield, gain 31% Total DMG Multiplier."
+      },
+      "M": {
+        "name": "Jingwei (M)",
+        "stats": {
+          "HP": "522",
+          "ATK": "0",
+          "DEF": "48",
+          "CRT": "9",
+          "SP": "0"
+        },
+        "skill_name": "Soaring Flight",
+        "skill_description": "When there are no more than 3 enemies on the battlefield, the host gains 31% Move Speed. After hitting an enemy with Charged/Combo ATK, the host gains 40% Fire DMG for 5s. Triggering this effect again resets the duration."
+      },
+      "B": {
+        "name": "Jingwei (B)",
+        "stats": {
+          "HP": "522",
+          "ATK": "43",
+          "DEF": "48",
+          "CRT": "4",
+          "SP": "0"
+        },
+        "skill_name": "Divine Guardian",
+        "skill_description": "When there are no more than 2 enemies on the battlefield, gain 41% DEF in battle. After exit at below 50% HP, heal for 20 HP/s."
+      }
+    },
+    "set": {
+      "name": "Princess of Fate",
+      "2_piece": {
+        "name": "Eternal Struggle",
+        "effect": "For every ignited or firebranded enemy, gain 10% Attack Speed. Stacks up to 5 times."
+      },
+      "3_piece": {
+        "name": "Sea Filler",
+        "effect": "When having a target, all enemies except for the target deal 70% less DMG to the host."
+      }
+    },
+    "images": {
+      "T": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/05/Jingwei_%28Stigmata%29_%28T%29.png/revision/latest?cb=20220924164526",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/74/Jingwei_%28Stigmata%29_%28T%29_%28Icon%29.png/revision/latest?cb=20240620180400"
+      },
+      "M": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/86/Jingwei_%28Stigmata%29_%28M%29.png/revision/latest?cb=20220924164609",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/58/Jingwei_%28Stigmata%29_%28M%29_%28Icon%29.png/revision/latest?cb=20240620180421"
+      },
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/67/Jingwei_%28Stigmata%29_%28B%29.png/revision/latest?cb=20220924164628",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/ed/Jingwei_%28Stigmata%29_%28B%29_%28Icon%29.png/revision/latest?cb=20231117232541"
+      }
+    }
+  },
+  "Jixuanyuan": {
+    "name": "Jixuanyuan",
+    "positions": {
+      "T": {
+        "name": "Jixuanyuan (T)",
+        "stats": {
+          "HP": "540",
+          "ATK": "93",
+          "DEF": "91",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Switch Skill Boost",
+        "skill_description": "Switch skill (and QTE) gain 62% Physical DMG."
+      },
+      "M": {
+        "name": "Jixuanyuan (M)",
+        "stats": {
+          "HP": "540",
+          "ATK": "0",
+          "DEF": "91",
+          "CRT": "6",
+          "SP": "0"
+        },
+        "skill_name": "Charged ATK Boost",
+        "skill_description": "Charged ATKs gain 36% Physical DMG."
+      },
+      "B": {
+        "name": "Jixuanyuan (B)",
+        "stats": {
+          "HP": "574",
+          "ATK": "46",
+          "DEF": "12",
+          "CRT": "1",
+          "SP": "0"
+        },
+        "skill_name": "Weapon Skill Boost",
+        "skill_description": "Weapon's active skills gain 41% Total DMG Multiplier."
+      }
+    },
+    "set": {
+      "name": "Emperor of Xuanyuan",
+      "2_piece": {
+        "name": "Blessed Blade",
+        "effect": "Shortens debuffs duration by 50%. Mei, Yae Sakura, or Himeko equip bonus: Gain 20% Max HP in battle."
+      },
+      "3_piece": {
+        "name": "Energy Focus",
+        "effect": "Charges once every 5s. For the next Basic, Combo, or Charged ATK and a short period after that 80% Physical DMG and 50% Crit Rate."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/fd/Jixuanyuan_%28B%29.png/revision/latest?cb=20240804151324",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/5f/Jixuanyuan_%28B%29_%28Icon%29.png/revision/latest?cb=20231117025856"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/2c/Jixuanyuan_%28T%29_%28Icon%29.png/revision/latest?cb=20231117025819",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/ca/Jixuanyuan_%28T%29.png/revision/latest?cb=20240804151353"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/36/Jixuanyuan_%28M%29_%28Icon%29.png/revision/latest?cb=20231117025838",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f9/Jixuanyuan_%28M%29.png/revision/latest?cb=20240804151337"
+      }
+    }
+  },
+  "Jixuanyuan Aqua": {
+    "name": "Jixuanyuan Aqua",
+    "positions": {
+      "T": {
+        "name": "Jixuanyuan Aqua (T)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Combo ATK Boost",
+        "skill_description": "Combo ATKs gain 9% (15% at 4★) Physical DMG."
+      },
+      "M": {
+        "name": "Jixuanyuan Aqua (M)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Charged ATK Boost",
+        "skill_description": "Charged ATKs gain 8% (15% at 4★) Physical DMG."
+      },
+      "B": {
+        "name": "Jixuanyuan Aqua (B)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Switch Skill Boost",
+        "skill_description": "Switch skill (and QTE) gain 19% (31% at 4★) Physical DMG."
+      }
+    },
+    "set": {
+      "name": "Original Lolita",
+      "2_piece": {
+        "name": "Breach Lockon",
+        "effect": "Gain 10% Total DMG Multiplier against enemy with broken Elite Shield."
+      },
+      "3_piece": {
+        "name": "ADV Speed Boost",
+        "effect": "Gain 10% Move Speed."
+      }
+    },
+    "images": {
+      "T": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/3f/Jixuanyuan_Aqua_%28T%29.png/revision/latest?cb=20220924163852",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/9e/Jixuanyuan_Aqua_%28T%29_%28Icon%29.png/revision/latest?cb=20231117023317"
+      },
+      "M": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/6e/Jixuanyuan_Aqua_%28M%29.png/revision/latest?cb=20220924163900",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f6/Jixuanyuan_Aqua_%28M%29_%28Icon%29.png/revision/latest?cb=20231117023346"
+      },
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/d5/Jixuanyuan_Aqua_%28B%29.png/revision/latest?cb=20240802180245",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/ef/Jixuanyuan_Aqua_%28B%29_%28Icon%29.png/revision/latest?cb=20231117023406"
+      }
+    }
+  },
+  "Jonin Sakura": {
+    "name": "Jonin Sakura",
+    "positions": {
+      "M": {
+        "name": "Jonin Sakura (M)",
+        "stats": {
+          "HP": "291",
+          "ATK": "0",
+          "DEF": "110",
+          "CRT": "1",
+          "SP": "0"
+        },
+        "skill_name": "Cursed Fate",
+        "skill_description": "Physical DMG increases by 10,0% for 10s for each enemy kill. Max stacks: 2. Each stack gained resets the duration."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/be/Jonin_Sakura_%28M%29_%28Icon%29.png/revision/latest?cb=20231118015730",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/56/Jonin_Sakura_%28M%29.png/revision/latest?cb=20240802195838"
+      }
+    }
+  },
+  "Kafka": {
+    "name": "Kafka",
+    "positions": {
+      "T": {
+        "name": "Kafka (T)",
+        "stats": {
+          "HP": "410",
+          "ATK": "113",
+          "DEF": "44",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Betrachtung",
+        "skill_description": "Upon scoring a Crit hit, the host gains a 2.5% Total DMG Multiplier and 2.5% Crit DMG buff for 5s (Max stack: 8). Duration of each stack will not be affected by other stacks."
+      },
+      "M": {
+        "name": "Kafka (M)",
+        "stats": {
+          "HP": "483",
+          "ATK": "0",
+          "DEF": "177",
+          "CRT": "10",
+          "SP": "0"
+        },
+        "skill_name": "Das Schloss",
+        "skill_description": "Upon scoring a Crit hit, the host gains a 5.0% Physical DMG buff for 5s (Max stack: 8). Duration of each stack will not be affected by other stacks."
+      },
+      "B": {
+        "name": "Kafka (B)",
+        "stats": {
+          "HP": "434",
+          "ATK": "60",
+          "DEF": "88",
+          "CRT": "8",
+          "SP": "0"
+        },
+        "skill_name": "Der Process",
+        "skill_description": "Upon scoring a Crit hit, the host gains a 2.5% Crit Rate buff for 5s (Max stack: 8). Duration of each stack will not be affected by other stacks."
+      }
+    },
+    "set": {
+      "name": "Loner of Prague",
+      "2_piece": {
+        "name": "K's Processing",
+        "effect": "Charged ATKs directly trigger max-stacks effects of a stigma and gives the host a 45% Total DMG Multiplier buff for 12s. CD: 20s."
+      },
+      "3_piece": {
+        "name": "Surreal Milieu",
+        "effect": "Gain 35% Total DMG Reduction against hits taken. Within 12s after unleashing a Charged ATK, each attack has a 60% chance to trigger a bonus strike that deals 15% ATK of Physical DMG, has 100% higher Crit Rate, and is added to the Combo Hit counter. Triggers 30 times only. CD: 20s."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/7a/Kafka_%28B%29.png/revision/latest?cb=20240804151258",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/6f/Kafka_%28B%29_%28Icon%29.png/revision/latest?cb=20231118014537"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/8d/Kafka_%28T%29_%28Icon%29.png/revision/latest?cb=20231118014453",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/6f/Kafka_%28T%29.png/revision/latest?cb=20240804151225"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/12/Kafka_%28M%29_%28Icon%29.png/revision/latest?cb=20231118014518",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/09/Kafka_%28M%29.png/revision/latest?cb=20240804151244"
+      }
+    }
+  },
+  "Kallen - Hawaii": {
+    "name": "Kallen - Hawaii",
+    "positions": {
+      "M": {
+        "name": "Kallen - Hawaii (M)",
+        "stats": {
+          "HP": "337",
+          "ATK": "0",
+          "DEF": "109",
+          "CRT": "2",
+          "SP": "0"
+        },
+        "skill_name": "Melodic Voice",
+        "skill_description": "Gain 40% DEF in battle. Theresa equip bonus: Summoned units gain 15% Total DMG Multiplier."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e6/Kallen_-_Hawaii_%28M%29_%28Icon%29.png/revision/latest?cb=20231117031518",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/7/76/Kallen_-_Hawaii_%28M%29.png/revision/latest?cb=20240802195557"
+      }
+    }
+  },
+  "Kallen - Hymn": {
+    "name": "Kallen - Hymn",
+    "positions": {
+      "T": {
+        "name": "Kallen - Hymn (T)",
+        "stats": {
+          "HP": "434",
+          "ATK": "109",
+          "DEF": "61",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Grace Blade",
+        "skill_description": "For the host and units summoned by the host: Attacks gain 20% Physical DMG. Attacks against impaired enemies further gain 12% Physical DMG."
+      },
+      "M": {
+        "name": "Kallen - Hymn (M)",
+        "stats": {
+          "HP": "531",
+          "ATK": "0",
+          "DEF": "175",
+          "CRT": "4",
+          "SP": "0"
+        },
+        "skill_name": "Grace Barrier",
+        "skill_description": "When entering battle, host obtains a Grace Barrier that reduces 400 incoming Physical DMG from enemy hits, after which the barrier enters a 6s CD. While the barrier lasts, host takes 30% less indirect Physical DMG."
+      },
+      "B": {
+        "name": "Kallen - Hymn (B)",
+        "stats": {
+          "HP": "458",
+          "ATK": "41",
+          "DEF": "70",
+          "CRT": "11",
+          "SP": "0"
+        },
+        "skill_name": "Blessed Path",
+        "skill_description": "For every impaired enemy on the battlefield, the host gains 6% Attack Speed and 5% Crit DMG. Stacks up to 4 times."
+      }
+    },
+    "set": {
+      "name": "Celestial Hymn",
+      "2_piece": {
+        "name": "Grace Judgment",
+        "effect": "Spend at least 15, 70, and 125 SP at once to gain 8%, 15%, and 22% Total DMG Multiplier respectively for the entire team. Lasts 7s. Effect cannot stack."
+      },
+      "3_piece": {
+        "name": "Holy Mending",
+        "effect": "When hitting an impaired enemy, the host heals for 8% HP and gains 5% SP. CD: 8s."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/08/Kallen_-_Hymn_%28B%29.png/revision/latest?cb=20240804151123",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/1e/Kallen_-_Hymn_%28B%29_%28Icon%29.png/revision/latest?cb=20231117232105"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/28/Kallen_-_Hymn_%28T%29_%28Icon%29.png/revision/latest?cb=20231117232024",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/9e/Kallen_-_Hymn_%28T%29.png/revision/latest?cb=20240804151155"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/3e/Kallen_-_Hymn_%28M%29_%28Icon%29.png/revision/latest?cb=20231117232045",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/0e/Kallen_-_Hymn_%28M%29.png/revision/latest?cb=20240804151140"
+      }
+    }
+  },
+  "Kallen Pledge": {
+    "name": "Kallen Pledge",
+    "positions": {
+      "T": {
+        "name": "Kallen Pledge (T)",
+        "stats": {
+          "HP": "547",
+          "ATK": "91",
+          "DEF": "75",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Alberich's Bows",
+        "skill_description": "When Basic ATKs (including Combo and Charged ATKs) hit a target, there is a 52% chance of dealing 123% ATK of Physical DMG to the target and surrounding enemies. CD: 2.0s."
+      },
+      "M": {
+        "name": "Kallen Pledge (M)",
+        "stats": {
+          "HP": "547",
+          "ATK": "0",
+          "DEF": "75",
+          "CRT": "10",
+          "SP": "0"
+        },
+        "skill_name": "Knightly Lineage",
+        "skill_description": "Gain 20% Max HP in battle and 31% chance of directly ignoring a debuff."
+      },
+      "B": {
+        "name": "Kallen Pledge (B)",
+        "stats": {
+          "HP": "547",
+          "ATK": "46",
+          "DEF": "75",
+          "CRT": "5",
+          "SP": "0"
+        },
+        "skill_name": "Honkai Hunter",
+        "skill_description": "Gain 21% Physical DMG against elite enemies, and take 21% less Physical DMG from attacks of elite enemies."
+      }
+    },
+    "set": {
+      "name": "Daughter of Schicksal",
+      "2_piece": {
+        "name": "Oath of Judah",
+        "effect": "For every Elite enemy on the battlefield, the host gains 8% Crit Rate. Stacks up to 4 times."
+      },
+      "3_piece": {
+        "name": "Eternal Saint",
+        "effect": "For every elite killed, Basic ATKs (including Combo and Charged ATKs) of the host gain 15% Physical DMG. Stacks up to 3 times. Lasts 120s (adding a stack does not refresh the duration)."
+      }
+    },
+    "images": {
+      "M": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f9/Kallen_Pledge_%28M%29.png/revision/latest?cb=20240804151038",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c5/Kallen_Pledge_%28M%29_%28Icon%29.png/revision/latest?cb=20231117023526"
+      },
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/54/Kallen_Pledge_%28B%29.png/revision/latest?cb=20240804151055",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/36/Kallen_Pledge_%28B%29_%28Icon%29.png/revision/latest?cb=20231117023545"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/3d/Kallen_Pledge_%28T%29_%28Icon%29.png/revision/latest?cb=20231117023504",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/db/Kallen_Pledge_%28T%29.png/revision/latest?cb=20220924170126"
+      }
+    }
+  },
+  "Kallen's Ambition": {
+    "name": "Kallen's Ambition",
+    "positions": {
+      "T": {
+        "name": "Kallen's Ambition (T)",
+        "stats": {
+          "HP": "386",
+          "ATK": "67",
+          "DEF": "88",
+          "CRT": "2",
+          "SP": "0"
+        },
+        "skill_name": "Ambition's Fall",
+        "skill_description": "Lightning DMG of the host's Melee ATKs increases by 30,0%. Yae Sakura equip bonus: SP regen rate increases by 5,0%."
+      }
+    },
+    "set": {},
+    "images": {
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/dc/Kallen%27s_Ambition_%28T%29_%28Icon%29.png/revision/latest?cb=20231118015704",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/43/Kallen%27s_Ambition_%28T%29.png/revision/latest?cb=20220112095330"
+      }
+    }
+  },
+  "Kepler": {
+    "name": "Kepler",
+    "positions": {
+      "T": {
+        "name": "Kepler (T)",
+        "stats": {
+          "HP": "345",
+          "ATK": "117",
+          "DEF": "35",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Law of Area",
+        "skill_description": "Upon scoring a crit strike, deal an additional 110% (200% at 5★) ATK of Physical DMG to the target and surrounding enemies within a 3-meter radius. CD: 3.0s."
+      },
+      "M": {
+        "name": "Kepler (M)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "123",
+          "CRT": "16",
+          "SP": "0"
+        },
+        "skill_name": "Law of Orbit",
+        "skill_description": "Upon scoring a crit strike, paralyzes the target and surrounding enemies within a 3-meter radius for 2.0s. CD: 7.0s (4.0s at 5★)."
+      },
+      "B": {
+        "name": "Kepler (B)",
+        "stats": {
+          "HP": "0",
+          "ATK": "53",
+          "DEF": "70",
+          "CRT": "11",
+          "SP": "0"
+        },
+        "skill_name": "Law of Period",
+        "skill_description": "Upon scoring a crit strike, heals self for 130 (250 for 5★) HP. CD: 6.0s."
+      }
+    },
+    "set": {
+      "name": "Ruler of Sky",
+      "2_piece": {
+        "name": "Meteor Impact",
+        "effect": "Gain 55% Crit DMG."
+      },
+      "3_piece": {
+        "name": "Heavenly Verdict",
+        "effect": "Critical strikes mark non-Boss enemies for Judgment. These enemies then take 15% ATK of Physical DMG per second for 30s. CD: 5s. For every enemy marked for Judgment, gain 6% Crit Rate. Stacks up to 5 times."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c5/Kepler_%28B%29.png/revision/latest?cb=20240804150921",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f1/Kepler_%28B%29_%28Icon%29.png/revision/latest?cb=20231117041248"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/55/Kepler_%28T%29_%28Icon%29.png/revision/latest?cb=20231117041207",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/5c/Kepler_%28T%29.png/revision/latest?cb=20240804150955"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/6c/Kepler_%28M%29_%28Icon%29.png/revision/latest?cb=20231117041229",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c4/Kepler_%28M%29.png/revision/latest?cb=20240804150938"
+      }
+    }
+  },
+  "Kiana Diva": {
+    "name": "Kiana Diva",
+    "positions": {
+      "M": {
+        "name": "Kiana Diva (M)",
+        "stats": {
+          "HP": "508",
+          "ATK": "0",
+          "DEF": "127",
+          "CRT": "4",
+          "SP": "0"
+        },
+        "skill_name": "Leaping Note",
+        "skill_description": "Upon Ultimate Evasion, all allies heal for 12 HP/s for 7s. Triggering this again resets the duration. Kiana equip bonus: Heals 12,7 HP/s whether on or off the field."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/ab/Kiana_Diva_%28M%29_%28Icon%29.png/revision/latest?cb=20231117031839",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/42/Kiana_Diva_%28M%29.png/revision/latest?cb=20240805122400"
+      }
+    }
+  },
+  "Kiana Kaslana": {
+    "name": "Kiana Kaslana",
+    "positions": {
+      "T": {
+        "name": "Kiana Kaslana (T)",
+        "stats": {
+          "HP": "369",
+          "ATK": "112",
+          "DEF": "88",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "When Finality Emerges from Cocoon",
+        "skill_description": "Increases Fire DMG by 30.0%. Casting weapon active boosts Total DMG by 16.0% for 8s, while by 16.0% in Herrscher form. Triggering it again refreshes its duration."
+      },
+      "M": {
+        "name": "Kiana Kaslana (M)",
+        "stats": {
+          "HP": "422",
+          "ATK": "0",
+          "DEF": "232",
+          "CRT": "10",
+          "SP": "0"
+        },
+        "skill_name": "Fire That Illuminates Night",
+        "skill_description": "After QTE or weapon active hits, all enemies take 20.00% more Fire DMG from the character for 8s (independent; retriggering refreshes duration). After entry by Joint Bursting, all enemies take 3.00% more Fire DMG from the character for 8s (independent; retriggering refreshes duration)."
+      },
+      "B": {
+        "name": "Kiana Kaslana (B)",
+        "stats": {
+          "HP": "362",
+          "ATK": "72",
+          "DEF": "84",
+          "CRT": "8",
+          "SP": "0"
+        },
+        "skill_name": "Name of Kaslana",
+        "skill_description": "In Herrscher form, weapon active and Combo ATK deal 40.0% more Fire DMG, and casting weapon active restores 1.0 SP per second for 8s; can stack 2 times. During Absolute Time Fracture, the character deals 50.0% more Fire DMG."
+      }
+    },
+    "set": {
+      "name": "In the Name of Finality",
+      "2_piece": {
+        "name": "Drifter's Way",
+        "effect": "Landing Basic ATK or Joint Bursting grants 1 stack of Trace of Moon; CD: 6s. Casting weapon active grants 1 stack of Dust of Time; CD: 3s. When possessing both Trace of Moon and Dust of Time, Combo ATK consumes all Trace of Moon and Dust of Time on hit to deal 45.0% more Total DMG temporarily, and the character also deals 45.0% more Total DMG for 8s. Triggering it again refreshes its duration."
+      },
+      "3_piece": {
+        "name": "Tomorrow's Departure",
+        "effect": "In Herrscher form, weapon active and Ultimate deal 55.0% more Fire DMG. After casting weapon active, all enemies take 18.0% more Total DMG from the character for 8s; retriggering refreshes duration. During Absolute Time Fracture, the character deals 40.0% more Total DMG."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/ce/Kiana_Kaslana_%28Stigmata%29_%28B%29.png/revision/latest?cb=20230216164001",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/54/Kiana_Kaslana_%28Stigmata%29_%28B%29_%28Icon%29.png/revision/latest?cb=20231116172724"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/35/Kiana_Kaslana_%28Stigmata%29_%28T%29_%28Icon%29.png/revision/latest?cb=20231116172642",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/86/Kiana_Kaslana_%28Stigmata%29_%28T%29.png/revision/latest?cb=20230216163942"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/30/Kiana_Kaslana_%28Stigmata%29_%28M%29_%28Icon%29.png/revision/latest?cb=20231116172704",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/ab/Kiana_Kaslana_%28Stigmata%29_%28M%29.png/revision/latest?cb=20230216163952"
+      }
+    }
+  },
+  "Kiana New Year": {
+    "name": "Kiana New Year",
+    "positions": {
+      "B": {
+        "name": "Kiana New Year (B)",
+        "stats": {
+          "HP": "245",
+          "ATK": "26",
+          "DEF": "43",
+          "CRT": "6",
+          "SP": "0"
+        },
+        "skill_name": "Countdown:",
+        "skill_description": "Gain 15% Attack Speed. Kiana or Kallen equip bonus: When entering combat, gain 5 stacks and 10% Crit Rate bonus per stack. 1 stack is lost every 2s until all stacks are gone. Triggers once every 15s."
+      }
+    },
+    "set": {},
+    "images": {
+      "B": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/06/Kiana_New_Year_%28B%29_%28Icon%29.png/revision/latest?cb=20231117031759",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/3c/Kiana_New_Year_%28B%29.png/revision/latest?cb=20230610194014"
+      }
+    }
+  },
+  "Kiana the Shopper": {
+    "name": "Kiana the Shopper",
+    "positions": {
+      "T": {
+        "name": "Kiana the Shopper (T)",
+        "stats": {
+          "HP": "245",
+          "ATK": "43",
+          "DEF": "55",
+          "CRT": "1",
+          "SP": "0"
+        },
+        "skill_name": "Prodigal Browser",
+        "skill_description": "Host gains 10.0% Physical DMG and 10.0% Combo ATK Crit DMG."
+      }
+    },
+    "set": {},
+    "images": {
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c9/Kiana_the_Shopper_%28T%29_%28Icon%29.png/revision/latest?cb=20240620155928",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/ad/Kiana_the_Shopper_%28T%29.png/revision/latest?cb=20240804200334"
+      }
+    }
+  },
+  "Kiana: Accompaniment": {
+    "name": "Kiana: Accompaniment",
+    "positions": {
+      "M": {
+        "name": "Kiana: Accompaniment (M)",
+        "stats": {
+          "HP": "291",
+          "ATK": "16",
+          "DEF": "82",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Lively Music",
+        "skill_description": "Physical DMG increases by 10,0%. The host takes 15,0% less Total DMG with summoned entities on the field."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/0a/Kiana_-_Accompaniment_%28M%29_%28Icon%29.png/revision/latest?cb=20231116183932",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/49/Kiana_-_Accompaniment_%28M%29.png/revision/latest?cb=20240802195353"
+      }
+    }
+  },
+  "Kiana: Birthday": {
+    "name": "Kiana: Birthday",
+    "positions": {
+      "M": {
+        "name": "Kiana: Birthday (M)",
+        "stats": {
+          "HP": "291",
+          "ATK": "0",
+          "DEF": "103",
+          "CRT": "4",
+          "SP": "0"
+        },
+        "skill_name": "Exquisite Home-made Cake",
+        "skill_description": "Gain 20% Physical DMG. Kiana equip bonus: 15% faster attack speed."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/44/Kiana_-_Birthday_%28M%29_%28Icon%29.png/revision/latest?cb=20231118014845",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/24/Kiana_-_Birthday_%28M%29.png/revision/latest?cb=20240802195323"
+      }
+    }
+  },
+  "Kiana: Camping": {
+    "name": "Kiana: Camping",
+    "positions": {
+      "B": {
+        "name": "Kiana: Camping (B)",
+        "stats": {
+          "HP": "276",
+          "ATK": "33",
+          "DEF": "27",
+          "CRT": "3",
+          "SP": "0"
+        },
+        "skill_name": "Star Glow",
+        "skill_description": "The host gains 10,0% Move Speed. Gains another 10,0% Move Speed for 10s when picking up SP Pack, HP Pack and Coins. Triggering it again resets the duration."
+      }
+    },
+    "set": {},
+    "images": {
+      "B": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/de/Kiana_-_Camping_%28B%29_%28Icon%29.png/revision/latest?cb=20240620161408",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c0/Kiana_-_Camping_%28B%29.png/revision/latest?cb=20240802195254"
+      }
+    }
+  },
+  "Kiana: Casuals": {
+    "name": "Kiana: Casuals",
+    "positions": {
+      "T": {
+        "name": "Kiana: Casuals (T)",
+        "stats": {
+          "HP": "284",
+          "ATK": "51",
+          "DEF": "27",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Moment of Focus",
+        "skill_description": "When on the field and in combat, the host heals for 15 HP/s. Kiana equip bonus: Gain 20% Max HP in battle."
+      }
+    },
+    "set": {},
+    "images": {
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/88/Kiana_-_Casuals_%28T%29_%28Icon%29.png/revision/latest?cb=20231117031819",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e1/Kiana_-_Casuals_%28T%29.png/revision/latest?cb=20240802195151"
+      }
+    }
+  },
+  "Kiana: Cramming": {
+    "name": "Kiana: Cramming",
+    "positions": {
+      "T": {
+        "name": "Kiana: Cramming (T)",
+        "stats": {
+          "HP": "371",
+          "ATK": "85",
+          "DEF": "88",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Unrelenting Revision",
+        "skill_description": "After every 5s, the character's next ATK will deal 12.0% more Fire DMG. Can stack up to 3 times. All stacks will be cleared after the ATK. This skill is exclusive and cannot stack."
+      }
+    },
+    "set": {},
+    "images": {
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f8/Kiana_-_Cramming_%28T%29_%28Icon%29.png/revision/latest?cb=20231223194038",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/89/Kiana_-_Cramming_%28T%29.png/revision/latest?cb=20231223194123"
+      }
+    }
+  },
+  "Kiana: Dinner Party": {
+    "name": "Kiana: Dinner Party",
+    "positions": {
+      "M": {
+        "name": "Kiana: Dinner Party (M)",
+        "stats": {
+          "HP": "291",
+          "ATK": "16",
+          "DEF": "82",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "The Moon and the Rose",
+        "skill_description": "Increases Total DMG by 15,0%. When equipped by Kiana, Total DMG dealt by the team increases by 5,0% (cannot stack)."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/47/Kiana_-_Dinner_Party_%28M%29_%28Icon%29.png/revision/latest?cb=20231116151202",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/26/Kiana_-_Dinner_Party_%28M%29.png/revision/latest?cb=20221030070218"
+      }
+    }
+  },
+  "Kiana: Evening Invite": {
+    "name": "Kiana: Evening Invite",
+    "positions": {
+      "B": {
+        "name": "Kiana: Evening Invite (B)",
+        "stats": {
+          "HP": "276",
+          "ATK": "33",
+          "DEF": "27",
+          "CRT": "3",
+          "SP": "0"
+        },
+        "skill_name": "Advent of Moon",
+        "skill_description": "Increases Fire DMG by 20,0%. On entry, Ultimate deals 10,0% more DMG for 5s. On exit, recover 150 HP, CD: 10s."
+      }
+    },
+    "set": {},
+    "images": {
+      "B": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/b7/Kiana_-_Evening_Invite_%28B%29_%28Icon%29.png/revision/latest?cb=20240620165139",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/92/Kiana_-_Evening_Invite_%28B%29.png/revision/latest?cb=20230217205843"
+      }
+    }
+  },
+  "Kiana: Greed": {
+    "name": "Kiana: Greed",
+    "positions": {
+      "B": {
+        "name": "Kiana: Greed (B)",
+        "stats": {
+          "HP": "434",
+          "ATK": "37",
+          "DEF": "52",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Greed",
+        "skill_description": "Hitting an enemy will steal their energy, reducing enemy Physical DMG by 15% while boosting own Physical DMG by 20% for 6,0s. CD: 20s."
+      }
+    },
+    "set": {},
+    "images": {
+      "B": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/07/Kiana_-_Greed_%28B%29_%28Icon%29.png/revision/latest?cb=20231117031657",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/a4/Kiana_-_Greed_%28B%29.png/revision/latest?cb=20220530142656"
+      }
+    }
+  },
+  "Kiana: Neko Birthday": {
+    "name": "Kiana: Neko Birthday",
+    "positions": {
+      "B": {
+        "name": "Kiana: Neko Birthday (B)",
+        "stats": {
+          "HP": "276",
+          "ATK": "16",
+          "DEF": "55",
+          "CRT": "5",
+          "SP": "0"
+        },
+        "skill_name": "Ishtar's Gift",
+        "skill_description": "Gains 16,0% Max HP and 10,0% Physical DMG Reduction in battle."
+      }
+    },
+    "set": {},
+    "images": {
+      "B": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/65/Kiana_-_Neko_Birthday_%28B%29_%28Icon%29.png/revision/latest?cb=20231118015638",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/c1/Kiana_-_Neko_Birthday_%28B%29.png/revision/latest?cb=20240802195036"
+      }
+    }
+  },
+  "Kiana: Part Time": {
+    "name": "Kiana: Part Time",
+    "positions": {
+      "M": {
+        "name": "Kiana: Part Time (M)",
+        "stats": {
+          "HP": "353",
+          "ATK": "0",
+          "DEF": "120",
+          "CRT": "1",
+          "SP": "0"
+        },
+        "skill_name": "Waiter",
+        "skill_description": "Gain 10% Move Speed. Kiana or Kallen equip bonus: All allies heal 20 HP every 3s. HP heal effect cannot stack."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/d3/Kiana_-_Part_Time_%28M%29_%28Icon%29.png/revision/latest?cb=20231117031741",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e8/Kiana_-_Part_Time_%28M%29.png/revision/latest?cb=20230610185242"
+      }
+    }
+  },
+  "Kiana: Prayers": {
+    "name": "Kiana: Prayers",
+    "positions": {
+      "M": {
+        "name": "Kiana: Prayers (M)",
+        "stats": {
+          "HP": "291",
+          "ATK": "0",
+          "DEF": "110",
+          "CRT": "1",
+          "SP": "0"
+        },
+        "skill_name": "Lantern Whispers",
+        "skill_description": "Heal 15 HP/s after exit."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/fc/Kiana_-_Prayers_%28M%29_%28Icon%29.png/revision/latest?cb=20240620010155",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/0e/Kiana_-_Prayers_%28M%29.png/revision/latest?cb=20230610155526"
+      }
+    }
+  },
+  "Kinderfest": {
+    "name": "Kinderfest",
+    "positions": {
+      "T": {
+        "name": "Kinderfest (T)",
+        "stats": {
+          "HP": "458",
+          "ATK": "79",
+          "DEF": "44",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Playmate",
+        "skill_description": "If Kiana / Mei / Bronya is on the team, the host gain 15% Physical DMG / 25% Lightning DMG / 25% Ice DMG respectively."
+      }
+    },
+    "set": {},
+    "images": {
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f1/Kinderfest_%28T%29_%28Icon%29.png/revision/latest?cb=20231118004858",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/5b/Kinderfest_%28T%29.png/revision/latest?cb=20220111210911"
+      }
+    }
+  },
+  "Kitten Fun": {
+    "name": "Kitten Fun",
+    "positions": {
+      "T": {
+        "name": "Rita: Kitten Fun (T)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "British Maid",
+        "skill_description": "The host gains 7.0% (15.0% at 4★) Fire DMG. Her Combo and Charged ATK deal 7.0% (15.0% at 4★) more Fire DMG."
+      },
+      "M": {
+        "name": "Stan: Kitten Fun (M)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Apex Predator",
+        "skill_description": "The host restores 15.0 (30.0 at 4★) HP per second at below 50% HP."
+      },
+      "B": {
+        "name": "Durandal: Kitten Fun (B)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Fast Striker",
+        "skill_description": "The host gains 7.0% (15.0% at 4★) ATK Speed and 5.0% (10.0% at 4★) Move Speed."
+      }
+    },
+    "set": {
+      "name": "London Holiday",
+      "2_piece": {
+        "name": "Holiday Surprise",
+        "effect": "Ultimate and Burst ATKs deal 20.0% more Total DMG."
+      },
+      "3_piece": {
+        "name": "Stoic Warrior",
+        "effect": "The host gains 15.0% Total DMG Reduction. Rita or Durandal equip bonus: Gains another 15.0% Total DMG Reduction."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/86/Kitten_Fun_%28B%29.png/revision/latest?cb=20240802180207",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/d0/Kitten_Fun_%28B%29_%28Icon%29.png/revision/latest?cb=20231118020434"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/59/Kitten_Fun_%28T%29_%28Icon%29.png/revision/latest?cb=20231118020356",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/69/Kitten_Fun_%28T%29.png/revision/latest?cb=20240802180120"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/68/Kitten_Fun_%28M%29_%28Icon%29.png/revision/latest?cb=20231118020414",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/31/Kitten_Fun_%28M%29.png/revision/latest?cb=20240802180146"
+      }
+    }
   }
 }
