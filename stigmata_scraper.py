@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from collections import OrderedDict
 import os
 import json
 import re
@@ -23,13 +24,13 @@ def extract_stigmata_data(url):
     # Extract name
     name_elem = soup.select_one('h1.page-header__title')
     if name_elem:
-        stigmata_data['name'] = name_elem.text.strip().replace(' (Stigmata)', '')
+        stigmata_data['name'] = name_elem.text.strip().replace(' (Stigmata)', '').replace(' (Stigma)', '')
         logging.info(f"Extracted name: {stigmata_data['name']}")
     
     # Extract images
     first_word = stigmata_data['name'].split(':')[0].strip().split()[0].replace('"', '')
     images = soup.select(f'img[alt*="{first_word}"]')
-    image_data = {'T': {}, 'M': {}, 'B': {}}
+    image_data = {}
 
     for img in images:
         if 'data-src' in img.attrs and 'small' not in img['alt'].lower() and 'back' not in img['alt'].lower():
@@ -42,6 +43,9 @@ def extract_stigmata_data(url):
                 pos = 'B'
             else:
                 continue
+
+            if pos not in image_data:
+                image_data[pos] = {}
 
             if '(Icon)' in img['alt']:
                 image_data[pos]['icon'] = url
@@ -56,6 +60,10 @@ def extract_stigmata_data(url):
     if not max_elem:
         # If level 50 data doesn't exist, try to find level 35 data
         max_elem = soup.find('b', string='Lv 35')
+        
+        if not max_elem:
+            # If level 35 data doesn't exist, try to find level 25 data
+            max_elem = soup.find('b', string='Lv 25')
 
     if max_elem:
         content_div = max_elem.find_next('div', class_='mw-collapsible-content')
@@ -134,9 +142,12 @@ def main():
         else:
             all_stigmata_data[stigmata_data['name']] = stigmata_data
     
+    # Sort the data alphabetically
+    sorted_stigmata_data = dict(sorted(all_stigmata_data.items()))
+    
     # Write updated data back to file
     with open(json_file, 'w', encoding='utf-8') as f:
-        json.dump(all_stigmata_data, f, ensure_ascii=False, indent=2)
+        json.dump(sorted_stigmata_data, f, ensure_ascii=False, indent=2)
     
     logging.info(f"Extracted and merged data for {len(urls)} stigmata and saved to {json_file}")
 
