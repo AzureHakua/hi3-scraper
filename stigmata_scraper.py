@@ -64,6 +64,10 @@ def extract_stigmata_data(url):
             # If level 35 data doesn't exist, try to find level 25 data
             max_elem = soup.find('b', string='Lv 25')
 
+            if not max_elem:
+                # If level 25 data doesn't exist, try to find level 15 data
+                max_elem = soup.find('b', string='Lv 15')
+
     if max_elem:
         content_div = max_elem.find_next('div', class_='mw-collapsible-content')
         if content_div:
