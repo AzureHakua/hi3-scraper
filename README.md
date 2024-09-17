@@ -30,7 +30,7 @@ This tool is for educational and research purposes only. Please respect the term
 Basically an extension of the stigmata scraper that downloads the images of the stigmata from the JSON output. 
 
 ### Usage
-Place in the same directory as the JSON file, output the images to the output director, which is downloaded_images by default  
+Place in the same directory as the JSON file, output the images to the output directory, which is downloaded_images by default  
 `output_dir = 'downloaded_images'`
 
 ## reverse_json.py
