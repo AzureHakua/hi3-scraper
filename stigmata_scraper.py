@@ -146,7 +146,7 @@ def main():
             all_stigmata_data[stigmata_data['name']] = stigmata_data
     
     # Sort the data alphabetically
-    sorted_stigmata_data = dict(sorted(all_stigmata_data.items()))
+    sorted_stigmata_data = dict(sorted(all_stigmata_data.items(), key=lambda x: x[0].lower()))
     
     # Write updated data back to file
     with open(json_file, 'w', encoding='utf-8') as f:

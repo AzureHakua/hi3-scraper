@@ -155,32 +155,6 @@
       }
     }
   },
-  "Ai-Lunch": {
-    "name": "Ai-Lunch",
-    "positions": {
-      "M": {
-        "name": "Ai-Lunch (M)",
-        "stats": {
-          "HP": "291",
-          "ATK": "0",
-          "DEF": "110",
-          "CRT": "1",
-          "SP": "0"
-        },
-        "skill_name": "Ai-chan's Bento",
-        "skill_description": "Ultimate Evasion drops a ham. CD: 10s. Eat the ham to heal 100 HP. Ham disappears after 10s."
-      }
-    },
-    "set": {},
-    "images": {
-      "T": {},
-      "M": {
-        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/84/Ai-Lunch_%28M%29_%28Icon%29.png/revision/latest?cb=20231117030149",
-        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/0b/Ai-Lunch_%28M%29.png/revision/latest?cb=20230612165203"
-      },
-      "B": {}
-    }
-  },
   "Ai-chan: Memories": {
     "name": "Ai-chan: Memories",
     "positions": {
@@ -257,6 +231,32 @@
         "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/c/ce/Ai-chan_-_Sweet_Dreams_%28B%29_%28Icon%29.png/revision/latest?cb=20231116170836",
         "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/18/Ai-chan_-_Sweet_Dreams_%28B%29.png/revision/latest?cb=20240802204736"
       }
+    }
+  },
+  "Ai-Lunch": {
+    "name": "Ai-Lunch",
+    "positions": {
+      "M": {
+        "name": "Ai-Lunch (M)",
+        "stats": {
+          "HP": "291",
+          "ATK": "0",
+          "DEF": "110",
+          "CRT": "1",
+          "SP": "0"
+        },
+        "skill_name": "Ai-chan's Bento",
+        "skill_description": "Ultimate Evasion drops a ham. CD: 10s. Eat the ham to heal 100 HP. Ham disappears after 10s."
+      }
+    },
+    "set": {},
+    "images": {
+      "T": {},
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/84/Ai-Lunch_%28M%29_%28Icon%29.png/revision/latest?cb=20231117030149",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/0b/Ai-Lunch_%28M%29.png/revision/latest?cb=20230612165203"
+      },
+      "B": {}
     }
   },
   "Aladdin": {
@@ -1998,30 +1998,6 @@
       }
     }
   },
-  "Carole: Part-time Job": {
-    "name": "Carole: Part-time Job",
-    "positions": {
-      "M": {
-        "name": "Carole: Part-time Job (M)",
-        "stats": {
-          "HP": "291",
-          "ATK": "16",
-          "DEF": "82",
-          "CRT": "0",
-          "SP": "0"
-        },
-        "skill_name": "House Blend Soft Drink",
-        "skill_description": "Increases Physical DMG by 15,0%. If there has been no Crit hit within 5 consecutive attacks, the chance of the next attack being a Crit hit is increased by 100%."
-      }
-    },
-    "set": {},
-    "images": {
-      "M": {
-        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/95/Carole_-_Part-time_Job_%28M%29_%28Icon%29.png/revision/latest?cb=20231116175846",
-        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/46/Carole_-_Part-time_Job_%28M%29.png/revision/latest?cb=20221029203203"
-      }
-    }
-  },
   "Carole: ^.-": {
     "name": "Carole: ^.-",
     "positions": {
@@ -2043,6 +2019,30 @@
       "M": {
         "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/85/Carole_-_%5E.-_%28M%29_%28Icon%29.png/revision/latest?cb=20231118021226",
         "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/bf/Carole_-_%5E.-_%28M%29.png/revision/latest?cb=20240802203636"
+      }
+    }
+  },
+  "Carole: Part-time Job": {
+    "name": "Carole: Part-time Job",
+    "positions": {
+      "M": {
+        "name": "Carole: Part-time Job (M)",
+        "stats": {
+          "HP": "291",
+          "ATK": "16",
+          "DEF": "82",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "House Blend Soft Drink",
+        "skill_description": "Increases Physical DMG by 15,0%. If there has been no Crit hit within 5 consecutive attacks, the chance of the next attack being a Crit hit is increased by 100%."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/95/Carole_-_Part-time_Job_%28M%29_%28Icon%29.png/revision/latest?cb=20231116175846",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/46/Carole_-_Part-time_Job_%28M%29.png/revision/latest?cb=20221029203203"
       }
     }
   },
@@ -4566,96 +4566,6 @@
       }
     }
   },
-  "HOMU": {
-    "name": "HOMU",
-    "positions": {
-      "T": {
-        "name": "HOMU (T)",
-        "stats": {
-          "HP": "0",
-          "ATK": "0",
-          "DEF": "0",
-          "CRT": "0",
-          "SP": "0"
-        },
-        "skill_name": "Transaction",
-        "skill_description": "When Basic ATKs (including Combo and Charged ATKs) hit an enemy, there is a 30% (50% at 4★) chance of dropping HOMU Coins (CD: 4s). For each HOMU Coin picked up, the host gains 5% (10% at 4★) Total DMG Multiplier for 10 sec. Stacks up to 3 times."
-      },
-      "M": {
-        "name": "HOMU (M)",
-        "stats": {
-          "HP": "0",
-          "ATK": "0",
-          "DEF": "0",
-          "CRT": "0",
-          "SP": "0"
-        },
-        "skill_name": "Treasure Hunt",
-        "skill_description": "Extends pick-up ranges of all allies by 0.5 (1.5 at 4★) meters."
-      },
-      "B": {
-        "name": "HOMU (B)",
-        "stats": {
-          "HP": "0",
-          "ATK": "0",
-          "DEF": "0",
-          "CRT": "0",
-          "SP": "0"
-        },
-        "skill_name": "Fleet Feet",
-        "skill_description": "Gain 10% (20% at 4★) Move Speed."
-      }
-    },
-    "set": {
-      "name": "HOMU-HOMU Adventure",
-      "2_piece": {
-        "name": "Explosive HOMU",
-        "effect": "After picking up 1 HOMU Coins consecutively, generate a BOOM HOMU on the spot that explodes after a delay, dealing 400% ATK of Physical DMG to enemies within a 4-meter radius."
-      },
-      "3_piece": {
-        "name": "King HOMU's Treasure",
-        "effect": "After picking up 3 HOMU Coins consecutively, the host heals 10% HP and gains 10% SP."
-      }
-    },
-    "images": {
-      "B": {
-        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/14/HOMU_%28B%29.png/revision/latest?cb=20240802182449",
-        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/b5/HOMU_%28B%29_%28Icon%29.png/revision/latest?cb=20240619233643"
-      },
-      "T": {
-        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/bf/HOMU_%28T%29_%28Icon%29.png/revision/latest?cb=20231117003524",
-        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/64/HOMU_%28T%29.png/revision/latest?cb=20240802182522"
-      },
-      "M": {
-        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/68/HOMU_%28M%29_%28Icon%29.png/revision/latest?cb=20240619233540",
-        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/fb/HOMU_%28M%29.png/revision/latest?cb=20240802182506"
-      }
-    }
-  },
-  "HOMU: Gym": {
-    "name": "HOMU: Gym",
-    "positions": {
-      "M": {
-        "name": "HOMU: Gym (M)",
-        "stats": {
-          "HP": "291",
-          "ATK": "0",
-          "DEF": "110",
-          "CRT": "1",
-          "SP": "0"
-        },
-        "skill_name": "Muscle Tone",
-        "skill_description": "Switch (and QTE) skills deal 15,0% more Physical DMG. After entry, host takes 20,0% less Physical DMG for 10s. Does not trigger again for this duration."
-      }
-    },
-    "set": {},
-    "images": {
-      "M": {
-        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/d9/HOMU_-_Gym_%28M%29_%28Icon%29.png/revision/latest?cb=20231118021251",
-        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e0/HOMU_-_Gym_%28M%29.png/revision/latest?cb=20240802202257"
-      }
-    }
-  },
   "Hanabi Fireworks": {
     "name": "Hanabi Fireworks",
     "positions": {
@@ -4920,72 +4830,6 @@
       }
     }
   },
-  "Herrscher Shoppers": {
-    "name": "Herrscher Shoppers",
-    "positions": {
-      "T": {
-        "name": "Thundering Shopper (T)",
-        "stats": {
-          "HP": "245",
-          "ATK": "43",
-          "DEF": "55",
-          "CRT": "1",
-          "SP": "0"
-        },
-        "skill_name": "Sweep the Shelves",
-        "skill_description": "Lightning DMG increases by 15.0%. Herrscher of Thunder's Combo ATK has a 50% chance to inflict 3 Paralyze Trauma (CD: 7s)."
-      },
-      "M": {
-        "name": "Sentient Shopper (M)",
-        "stats": {
-          "HP": "291",
-          "ATK": "16",
-          "DEF": "82",
-          "CRT": "0",
-          "SP": "0"
-        },
-        "skill_name": "Discount",
-        "skill_description": "The host deals 8.0% more Physical DMG. Fu Hua equip bonus: SP cost of weapon active is lowered by 10.0%."
-      },
-      "B": {
-        "name": "Herrscher of Reason: Shopping (B)",
-        "stats": {
-          "HP": "276",
-          "ATK": "33",
-          "DEF": "27",
-          "CRT": "3",
-          "SP": "0"
-        },
-        "skill_name": "Cyber Girl",
-        "skill_description": "Ice DMG increases by 10.0%. Herrscher of Reason equip bonus: Charged ATKs deal 5.0% bonus Ice DMG."
-      }
-    },
-    "set": {
-      "name": "Herrscher Shoppers",
-      "2_piece": {
-        "name": "Special Product",
-        "effect": "Total DMG increases by 10.0% and further increases by 15.0% in Herrscher Form."
-      },
-      "3_piece": {
-        "name": "Herrscher's Vacation",
-        "effect": "Max HP increases by 20.0% and Move Speed increases by 10.0%."
-      }
-    },
-    "images": {
-      "M": {
-        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/83/Herrscher_Shoppers_%28M%29.png/revision/latest?cb=20240805122803",
-        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/9f/Herrscher_Shoppers_%28M%29_%28Icon%29.png/revision/latest?cb=20240620161650"
-      },
-      "B": {
-        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Herrscher_Shoppers_%28B%29.png/revision/latest?cb=20240805123326",
-        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e3/Herrscher_Shoppers_%28B%29_%28Icon%29.png/revision/latest?cb=20240620161747"
-      },
-      "T": {
-        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/8e/Herrscher_Shoppers_%28T%29_%28Icon%29.png/revision/latest?cb=20240620161133",
-        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/52/Herrscher_Shoppers_%28T%29.png/revision/latest?cb=20240805120609"
-      }
-    }
-  },
   "Herrscher of Finality: Shopping": {
     "name": "Herrscher of Finality: Shopping",
     "positions": {
@@ -5127,6 +4971,72 @@
       "B": {
         "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/bf/Herrscher_of_Truth_-_Shopping_%28B%29_%28Icon%29.png/revision/latest?cb=20231117030812",
         "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/bc/Herrscher_of_Truth_-_Shopping_%28B%29.png/revision/latest?cb=20231015075840"
+      }
+    }
+  },
+  "Herrscher Shoppers": {
+    "name": "Herrscher Shoppers",
+    "positions": {
+      "T": {
+        "name": "Thundering Shopper (T)",
+        "stats": {
+          "HP": "245",
+          "ATK": "43",
+          "DEF": "55",
+          "CRT": "1",
+          "SP": "0"
+        },
+        "skill_name": "Sweep the Shelves",
+        "skill_description": "Lightning DMG increases by 15.0%. Herrscher of Thunder's Combo ATK has a 50% chance to inflict 3 Paralyze Trauma (CD: 7s)."
+      },
+      "M": {
+        "name": "Sentient Shopper (M)",
+        "stats": {
+          "HP": "291",
+          "ATK": "16",
+          "DEF": "82",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Discount",
+        "skill_description": "The host deals 8.0% more Physical DMG. Fu Hua equip bonus: SP cost of weapon active is lowered by 10.0%."
+      },
+      "B": {
+        "name": "Herrscher of Reason: Shopping (B)",
+        "stats": {
+          "HP": "276",
+          "ATK": "33",
+          "DEF": "27",
+          "CRT": "3",
+          "SP": "0"
+        },
+        "skill_name": "Cyber Girl",
+        "skill_description": "Ice DMG increases by 10.0%. Herrscher of Reason equip bonus: Charged ATKs deal 5.0% bonus Ice DMG."
+      }
+    },
+    "set": {
+      "name": "Herrscher Shoppers",
+      "2_piece": {
+        "name": "Special Product",
+        "effect": "Total DMG increases by 10.0% and further increases by 15.0% in Herrscher Form."
+      },
+      "3_piece": {
+        "name": "Herrscher's Vacation",
+        "effect": "Max HP increases by 20.0% and Move Speed increases by 10.0%."
+      }
+    },
+    "images": {
+      "M": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/83/Herrscher_Shoppers_%28M%29.png/revision/latest?cb=20240805122803",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/9f/Herrscher_Shoppers_%28M%29_%28Icon%29.png/revision/latest?cb=20240620161650"
+      },
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/61/Herrscher_Shoppers_%28B%29.png/revision/latest?cb=20240805123326",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e3/Herrscher_Shoppers_%28B%29_%28Icon%29.png/revision/latest?cb=20240620161747"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/8/8e/Herrscher_Shoppers_%28T%29_%28Icon%29.png/revision/latest?cb=20240620161133",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/52/Herrscher_Shoppers_%28T%29.png/revision/latest?cb=20240805120609"
       }
     }
   },
@@ -5583,6 +5493,96 @@
       "M": {
         "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f5/Homecoming_Theater_%28M%29_%28Icon%29.png/revision/latest?cb=20231118001124",
         "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f6/Homecoming_Theater_%28M%29.png/revision/latest?cb=20240804154356"
+      }
+    }
+  },
+  "HOMU": {
+    "name": "HOMU",
+    "positions": {
+      "T": {
+        "name": "HOMU (T)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Transaction",
+        "skill_description": "When Basic ATKs (including Combo and Charged ATKs) hit an enemy, there is a 30% (50% at 4★) chance of dropping HOMU Coins (CD: 4s). For each HOMU Coin picked up, the host gains 5% (10% at 4★) Total DMG Multiplier for 10 sec. Stacks up to 3 times."
+      },
+      "M": {
+        "name": "HOMU (M)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Treasure Hunt",
+        "skill_description": "Extends pick-up ranges of all allies by 0.5 (1.5 at 4★) meters."
+      },
+      "B": {
+        "name": "HOMU (B)",
+        "stats": {
+          "HP": "0",
+          "ATK": "0",
+          "DEF": "0",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Fleet Feet",
+        "skill_description": "Gain 10% (20% at 4★) Move Speed."
+      }
+    },
+    "set": {
+      "name": "HOMU-HOMU Adventure",
+      "2_piece": {
+        "name": "Explosive HOMU",
+        "effect": "After picking up 1 HOMU Coins consecutively, generate a BOOM HOMU on the spot that explodes after a delay, dealing 400% ATK of Physical DMG to enemies within a 4-meter radius."
+      },
+      "3_piece": {
+        "name": "King HOMU's Treasure",
+        "effect": "After picking up 3 HOMU Coins consecutively, the host heals 10% HP and gains 10% SP."
+      }
+    },
+    "images": {
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/14/HOMU_%28B%29.png/revision/latest?cb=20240802182449",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/b5/HOMU_%28B%29_%28Icon%29.png/revision/latest?cb=20240619233643"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/b/bf/HOMU_%28T%29_%28Icon%29.png/revision/latest?cb=20231117003524",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/64/HOMU_%28T%29.png/revision/latest?cb=20240802182522"
+      },
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/6/68/HOMU_%28M%29_%28Icon%29.png/revision/latest?cb=20240619233540",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/fb/HOMU_%28M%29.png/revision/latest?cb=20240802182506"
+      }
+    }
+  },
+  "HOMU: Gym": {
+    "name": "HOMU: Gym",
+    "positions": {
+      "M": {
+        "name": "HOMU: Gym (M)",
+        "stats": {
+          "HP": "291",
+          "ATK": "0",
+          "DEF": "110",
+          "CRT": "1",
+          "SP": "0"
+        },
+        "skill_name": "Muscle Tone",
+        "skill_description": "Switch (and QTE) skills deal 15,0% more Physical DMG. After entry, host takes 20,0% less Physical DMG for 10s. Does not trigger again for this duration."
+      }
+    },
+    "set": {},
+    "images": {
+      "M": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/d9/HOMU_-_Gym_%28M%29_%28Icon%29.png/revision/latest?cb=20231118021251",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e0/HOMU_-_Gym_%28M%29.png/revision/latest?cb=20240802202257"
       }
     }
   },
@@ -7692,72 +7692,6 @@
       }
     }
   },
-  "MEI": {
-    "name": "MEI",
-    "positions": {
-      "T": {
-        "name": "MEI (T)",
-        "stats": {
-          "HP": "393",
-          "ATK": "114",
-          "DEF": "50",
-          "CRT": "0",
-          "SP": "0"
-        },
-        "skill_name": "Noisy Morning",
-        "skill_description": "Increases Total DMG by 20,0%. Landing QTE increases Physical DMG by 20,0% for 5s (triggering it again resets the duration)."
-      },
-      "M": {
-        "name": "MEI (M)",
-        "stats": {
-          "HP": "490",
-          "ATK": "0",
-          "DEF": "199",
-          "CRT": "7",
-          "SP": "0"
-        },
-        "skill_name": "Busy Afternoon",
-        "skill_description": "Deal 20,0% more Physical DMG. When Ultimate hits, team members break shields 40,0% easier for 20s (triggering it again resets the duration; exclusive)."
-      },
-      "B": {
-        "name": "MEI (B)",
-        "stats": {
-          "HP": "434",
-          "ATK": "61",
-          "DEF": "66",
-          "CRT": "9",
-          "SP": "0"
-        },
-        "skill_name": "Stressful Midnight",
-        "skill_description": "Increases team Total DMG by 15,0%. When Ultimate hits a shielded or shield-broken enemy, gain Navigator state, which increases team Physical DMG by 13,0% for 20s (triggering it again resets the duration; exclusive)."
-      }
-    },
-    "set": {
-      "name": "MOTHs Days",
-      "2_piece": {
-        "name": "Between the Bustle",
-        "effect": "Using Ultimate increases team Total DMG by 15,0% for 22s (triggering it again resets the duration). Terminal Aide 0017 equip bonus: With the b-pc of this set equipped, landing Ultimate grants Navigator state, which increases team Physical DMG by another 10,0% (exclusive)."
-      },
-      "3_piece": {
-        "name": "Nostalgic Thoughts",
-        "effect": "Team members break shields 40,0% easier (exclusive). When Ultimate hits, all enemies take 15,0% more Physical DMG for 20s (triggering it again resets the duration; exclusive)."
-      }
-    },
-    "images": {
-      "M": {
-        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/15/MEI_%28M%29.png/revision/latest?cb=20230511152812",
-        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/27/MEI_%28M%29_%28Icon%29.png/revision/latest?cb=20231116171207"
-      },
-      "B": {
-        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/fd/MEI_%28B%29.png/revision/latest?cb=20230511152643",
-        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/15/MEI_%28B%29_%28Icon%29.png/revision/latest?cb=20231116171226"
-      },
-      "T": {
-        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/dd/MEI_%28T%29_%28Icon%29.png/revision/latest?cb=20231116171146",
-        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e3/MEI_%28T%29.png/revision/latest?cb=20230511152828"
-      }
-    }
-  },
   "Marco Polo": {
     "name": "Marco Polo",
     "positions": {
@@ -7887,6 +7821,72 @@
       "M": {
         "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/4d/Mary_Shelley_%28M%29_%28Icon%29.png/revision/latest?cb=20231117002951",
         "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/19/Mary_Shelley_%28M%29.png/revision/latest?cb=20240804144753"
+      }
+    }
+  },
+  "MEI": {
+    "name": "MEI",
+    "positions": {
+      "T": {
+        "name": "MEI (T)",
+        "stats": {
+          "HP": "393",
+          "ATK": "114",
+          "DEF": "50",
+          "CRT": "0",
+          "SP": "0"
+        },
+        "skill_name": "Noisy Morning",
+        "skill_description": "Increases Total DMG by 20,0%. Landing QTE increases Physical DMG by 20,0% for 5s (triggering it again resets the duration)."
+      },
+      "M": {
+        "name": "MEI (M)",
+        "stats": {
+          "HP": "490",
+          "ATK": "0",
+          "DEF": "199",
+          "CRT": "7",
+          "SP": "0"
+        },
+        "skill_name": "Busy Afternoon",
+        "skill_description": "Deal 20,0% more Physical DMG. When Ultimate hits, team members break shields 40,0% easier for 20s (triggering it again resets the duration; exclusive)."
+      },
+      "B": {
+        "name": "MEI (B)",
+        "stats": {
+          "HP": "434",
+          "ATK": "61",
+          "DEF": "66",
+          "CRT": "9",
+          "SP": "0"
+        },
+        "skill_name": "Stressful Midnight",
+        "skill_description": "Increases team Total DMG by 15,0%. When Ultimate hits a shielded or shield-broken enemy, gain Navigator state, which increases team Physical DMG by 13,0% for 20s (triggering it again resets the duration; exclusive)."
+      }
+    },
+    "set": {
+      "name": "MOTHs Days",
+      "2_piece": {
+        "name": "Between the Bustle",
+        "effect": "Using Ultimate increases team Total DMG by 15,0% for 22s (triggering it again resets the duration). Terminal Aide 0017 equip bonus: With the b-pc of this set equipped, landing Ultimate grants Navigator state, which increases team Physical DMG by another 10,0% (exclusive)."
+      },
+      "3_piece": {
+        "name": "Nostalgic Thoughts",
+        "effect": "Team members break shields 40,0% easier (exclusive). When Ultimate hits, all enemies take 15,0% more Physical DMG for 20s (triggering it again resets the duration; exclusive)."
+      }
+    },
+    "images": {
+      "M": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/15/MEI_%28M%29.png/revision/latest?cb=20230511152812",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/2/27/MEI_%28M%29_%28Icon%29.png/revision/latest?cb=20231116171207"
+      },
+      "B": {
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/fd/MEI_%28B%29.png/revision/latest?cb=20230511152643",
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/1/15/MEI_%28B%29_%28Icon%29.png/revision/latest?cb=20231116171226"
+      },
+      "T": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/d/dd/MEI_%28T%29_%28Icon%29.png/revision/latest?cb=20231116171146",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e3/MEI_%28T%29.png/revision/latest?cb=20230511152828"
       }
     }
   },
@@ -9312,30 +9312,6 @@
       }
     }
   },
-  "PROMARE: Flame": {
-    "name": "PROMARE: Flame",
-    "positions": {
-      "B": {
-        "name": "PROMARE: Flame (B)",
-        "stats": {
-          "HP": "253",
-          "ATK": "25",
-          "DEF": "48",
-          "CRT": "7",
-          "SP": "0"
-        },
-        "skill_name": "Planet Burnout",
-        "skill_description": "Fire DMG dealt increases by 12.0%. When attacked, Fire DMG dealt increases by 12.0% more for 5 seconds. CD: 10s."
-      }
-    },
-    "set": {},
-    "images": {
-      "B": {
-        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f9/PROMARE_-_Flame_%28B%29_%28Icon%29.png/revision/latest?cb=20231116061938",
-        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/30/PROMARE_-_Flame_%28B%29.png/revision/latest?cb=20230902083255"
-      }
-    }
-  },
   "Paganini": {
     "name": "Paganini",
     "positions": {
@@ -9687,6 +9663,30 @@
       "T": {
         "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/91/Project_Bunny_-_Mid-Autumn_%28T%29_%28Icon%29.png/revision/latest?cb=20231116193542",
         "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/57/Project_Bunny_-_Mid-Autumn_%28T%29.png/revision/latest?cb=20240802194127"
+      }
+    }
+  },
+  "PROMARE: Flame": {
+    "name": "PROMARE: Flame",
+    "positions": {
+      "B": {
+        "name": "PROMARE: Flame (B)",
+        "stats": {
+          "HP": "253",
+          "ATK": "25",
+          "DEF": "48",
+          "CRT": "7",
+          "SP": "0"
+        },
+        "skill_name": "Planet Burnout",
+        "skill_description": "Fire DMG dealt increases by 12.0%. When attacked, Fire DMG dealt increases by 12.0% more for 5 seconds. CD: 10s."
+      }
+    },
+    "set": {},
+    "images": {
+      "B": {
+        "icon": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f9/PROMARE_-_Flame_%28B%29_%28Icon%29.png/revision/latest?cb=20231116061938",
+        "big": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/3/30/PROMARE_-_Flame_%28B%29.png/revision/latest?cb=20230902083255"
       }
     }
   },
