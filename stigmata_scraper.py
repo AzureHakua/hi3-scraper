@@ -1,4 +1,4 @@
-import requests
+import cloudscraper
 from bs4 import BeautifulSoup
 import os
 import json
@@ -13,6 +13,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 # Define position order
 POSITION_ORDER = {'T': 0, 'M': 1, 'B': 2}
 
+scraper = cloudscraper.create_scraper()
+
 # Download images
 def download_image(url, save_path):
     """
@@ -20,7 +22,7 @@ def download_image(url, save_path):
     Returns the relative path for JSON storage.
     """
     try:
-        response = requests.get(url, stream=True)
+        response = scraper.get(url, stream=True)
         response.raise_for_status()
         
         # Create directory if it doesn't exist
@@ -32,7 +34,7 @@ def download_image(url, save_path):
                     f.write(chunk)
                     
         # Return relative path for JSON
-        return os.path.join('public', 'img', 'stigmata', os.path.basename(save_path))
+        return os.path.join('img', 'stigmata', os.path.basename(save_path))
         
     except Exception as e:
         logging.error(f"Failed to download image from {url}: {str(e)}")
@@ -84,7 +86,8 @@ def convert_css(element):
 # Extracts stigmata data from the given URL
 def extract_stigmata_data(url):
     logging.info(f"Fetching URL: {url}")
-    response = requests.get(url)
+    response = scraper.get(url)
+    logging.info(f"Response status: {response.status_code}")
     soup = BeautifulSoup(response.content, 'html.parser')
 
     # Create JSON structure
@@ -99,12 +102,14 @@ def extract_stigmata_data(url):
     #
     # Extract name
     #
-    name_elem = soup.select_one('h1.page-header__title')
+    name_elem = soup.select_one('h1.page-header__title') or soup.select_one('span.mw-page-title-main')
     if name_elem:
         # Removes redundant "(Stigmata)" or "(Stigma)" from the name
         stigmata_data['name'] = name_elem.text.strip().replace(' (Stigmata)', '').replace(' (Stigma)', '')
         logging.info(f"Extracted name: {stigmata_data['name']}")
-
+    else:
+        logging.error(f"Could not extract name from {url}")
+        return stigmata_data
 
     #
     # Extract stigmata information, starting at Lv 50
@@ -133,8 +138,15 @@ def extract_stigmata_data(url):
             positions = content_div.find_all('div', class_='stigmata-entry-10padding')
 
             for pos_div in positions:
-                pos_name = pos_div.find('b', string=re.compile(r'\([TMB]\)')).text[-2]
-                piece_name = pos_div.find('b', string=re.compile(r'\([TMB]\)')).text.strip()
+                pos_elem = pos_div.find('b', string=re.compile(r'\([TMB]\)'))
+                if not pos_elem:
+                    logging.warning(f"Could not find position element for {stigmata_data['name']} - defaulting to T position. MANUAL REVIEW REQUIRED.")
+                    pos_name = 'T'
+                    piece_name = stigmata_data['name']
+                else:
+                    pos_name = pos_elem.text[-2]
+                    piece_name = pos_elem.text.strip()
+                    
                 logging.info(f'Extracted position: {pos_name} - {piece_name}')
                 stats = {}
 

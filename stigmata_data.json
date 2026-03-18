@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Elysian Paragon",
+    "positions": [
+      {
+        "position": "T",
+        "name": "Aponia: Perdition (M)",
+        "skillName": "Irredeemable",
+        "skillDescription": "Boosts Lightning DMG by <font color=#00C3FF>25%</font>. Total DMG increases by <font color=#00C3FF>10.0%</font> when combo hits exceed <b>30</b>.",
+        "stats": {
+          "hp": 386,
+          "atk": 94,
+          "def": 44,
+          "crt": 0,
+          "sp": 0
+        }
+      },
+      {
+        "position": "M",
+        "name": "Vill-V Contraption (M)",
+        "skillName": "Fabricated Assemblage",
+        "skillDescription": "Lightning DMG increases by <font color=#00C3FF>15.0%</font>. Host takes <font color=#00C3FF>15.0%</font> less Total DMG for <b>15</b>s after entering the field. When host is off field, team's Lightning DMG increases by <font color=#00C3FF>10.0%</font> (cannot stack).",
+        "stats": {
+          "hp": 458,
+          "atk": 26,
+          "def": 132,
+          "crt": 0,
+          "sp": 0
+        }
+      },
+      {
+        "position": "B",
+        "name": "Mobius: Ouroboros (B)",
+        "skillName": "Infinite Creation",
+        "skillDescription": "Increases Total DMG by <font color=#00C3FF>15.0%</font>. Increases Lightning DMG by <font color=#00C3FF>15.0%</font> when combo hits exceed <b>30</b>.",
+        "stats": {
+          "hp": 434,
+          "atk": 52,
+          "def": 44,
+          "crt": 5,
+          "sp": 0
+        }
+      }
+    ],
+    "images": [
+      {
+        "position": "T",
+        "imgUrl": "public/img/stigmata/Aponia__Perdition_T.png"
+      },
+      {
+        "position": "M",
+        "imgUrl": "public/img/stigmata/Vill-V_Contraption_M.png"
+      },
+      {
+        "position": "B",
+        "imgUrl": "public/img/stigmata/Mobius__Ouroboros_B.png"
+      }
+    ],
+    "setEffects": {
+      "setName": "Elysian Paragon",
+      "twoPieceName": "Bygone Chapters",
+      "twoPieceEffect": "Total DMG increases by <font color=#00C3FF>20.0%</font>. Upon entry or casting Ultimate, team's Total DMG increases by <font color=#00C3FF>10.0%</font> for <b>15</b>s (cannot stack). Triggering it again resets the duration.",
+      "threePieceName": "Elysian Legacy",
+      "threePieceEffect": "ATK Speed increases by <font color=#00C3FF>10.0%</font>. Take <font color=#00C3FF>15.0%</font> less Elemental DMG when health is below <b>40</b>%."
+    }
+  },
+  {
+    "name": "Vita: Shining",
+    "positions": [
+      {
+        "position": "T",
+        "name": "Vita: Shining",
+        "skillName": "Lone Star's Radiance",
+        "skillDescription": "Entering <u>Stellar Outburst</u> increases the character's Crit DMG by <font color=#00C3FF>8</font>% for <b>10</b>s. Triggering it again resets the duration.",
+        "stats": {
+          "hp": 222,
+          "atk": 50,
+          "def": 69,
+          "crt": 2,
+          "sp": 0
+        }
+      }
+    ],
+    "images": [
+      {
+        "position": "T",
+        "imgUrl": "img/stigmata/Vita__Shining_T.png"
+      }
+    ],
+    "setEffects": {}
+  }
+]

@@ -8,13 +8,13 @@ The `stigmata_scraper.py` script is a simple tool designed to extract comprehens
 - Scrapes stigmata information from the Honkai Impact 3rd fandom wiki
 - Extracts details such as stigmata names, set effects, individual piece effects, and more
 - Organizes data into a structured format for easy analysis and use
-- Downloads the images to a public folder for easy access
+- Downloads the images to a folder for easy access
 
 ### Installation and Usage
-1. Install Python 3.x and BeautifulSoup4.
-2. Simply run the script using `python stigmata_scraper.py <URL1> <URL2> ...`
+1. Install Python 3.x, cloudscraper, and BeautifulSoup4.
+2. Simply run the script using `python3 stigmata_scraper.py <URL1> <URL2> ...`
 3. Note that you can use quotes around the URL to avoid issues with special characters.
-    - Example: `python stigmata_scraper.py 'https://honkaiimpact3.fandom.com/wiki/Benares_(Stigma)'`
+    - Example: `python3 stigmata_scraper.py 'https://honkaiimpact3.fandom.com/wiki/Benares_(Stigma)'`
 
 ### Output
 The script generates a structured JSON output containing:
